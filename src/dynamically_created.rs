@@ -1,9 +1,3 @@
-use wasm_bindgen::prelude::*;
-// use rand::Rng; // rand crate is required
-use evalexpr::*;
-
-
-
 
     // all code in this file was automatically generated! 
     
