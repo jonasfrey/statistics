@@ -2,13 +2,15 @@
 name = "wasm_speed_test"
 version = "0.1.0"
 edition = "2021"
-
+default-run = "wasm_speed_test"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [lib]
 crate-type = ["cdylib", "rlib"]
-path = "src/main.rs" # Pointing to your main.rs file
+path = "src/main_autoextended.rs"
 
 
 [dependencies]
+evalexpr = "11.1.0"
+order-stat = "0.1.3"
 wasm-bindgen = "0.2.88"

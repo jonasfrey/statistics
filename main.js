@@ -5,9 +5,35 @@ import {
 } from "https://deno.land/x/date_functions@1.3/mod.js"
 
 await wasm.default();
+
+//write test arrays 
+
+
 let n_its = 30_000_000;
+
+var a = new Uint8Array(new Array(1_000_000).fill(0).map(n=>parseInt(Math.random()*255)))
+console.log(a)
+f_measure_time('wasm manipulate_each_element_with_expression')
+var a2 = a.slice();
+var res = wasm.manipulate_each_element_with_expression(
+    a2, 
+    "{}*2.5"
+);
+console.log(a2)
+f_measure_time()
+f_measure_time('wasm native expression')
+var a3 = a.slice();
+for(let n in a3){
+    a3[n] = a3[n]*2.5;
+}
+console.log(a3)
+
+f_measure_time()
+
 let a_n_u8 = new Uint8Array(new Array(n_its).fill(0).map(n=>parseInt(Math.random()*256)))
 console.log(a_n_u8)
+
+
 
 f_measure_time('native deno js min max')
 var n_min = a_n_u8[0];
@@ -101,6 +127,13 @@ f_measure_time()
 
 
 
+f_measure_time('wasm f_a_n_u64__sorted array')
+var a_n_min_n_max4 = wasm.f_a_n_u64__sorted(a_n_u64);
+console.log(a_n_min_n_max4)
+f_measure_time()
+
+
+
 //to get statistics on a 1d array representing a 2d array 
 // eg. [r,g,b,a,r,g,b,a] 
 // we can call 
@@ -114,25 +147,10 @@ let f_a_a_n_min_n_max__u64__array = function(
         n_channels
     );
 
-
-    let n_y = 2//n_channels;
+    let n_y = n_channels;
     let n_x = 2;// a_ 'n_min' , 'n_max' // depends on what the user wants
     
-    let f_a_v = function(n_len, v){
-        return new Array(n_len).fill(v)
-    }
-    let f_a_v__recursive = function(
-        n_y,
-        n_x, 
-        v
-    ){
-        if(n_y == 1){
-            return new Array(n_x).fill(0).map(()=>v)
-        }else{
-            return new Array(n_x).fill(0).map(()=>f_a_v__recursive(n_y-1, n_x,v))
-        }
-    }
-    let a_n_res_old = new Array(1);
+
     for(let n = 1; n<n_channels; n+=1){
         let a_n_res = new Array(1).fill(0);
         a_n_res_old[0] = (a_n_res)
