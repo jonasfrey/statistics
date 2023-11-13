@@ -1,0 +1,734 @@
+[
+  [
+    O_acc_property {
+      s_prop: "n_min",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`${s_type}`",
+      s_js_s_rs__initvalue: "a_n[0]",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_min")} = ${f_s_accessor_accumulator("n_min")}.min(v_in_fold);`',
+      s_js_s_rs__before_assignment_initvalue: "",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_min",
+          s_js_s_type: "`${s_type}`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    }
+  ],
+  [
+    O_acc_property {
+      s_prop: "n_max",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`${s_type}`",
+      s_js_s_rs__initvalue: "a_n[0]",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_max")} = ${f_s_accessor_accumulator("n_max")}.max(v_in_fold);`',
+      s_js_s_rs__before_assignment_initvalue: "",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_max",
+          s_js_s_type: "`${s_type}`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    }
+  ],
+  [
+    O_acc_property {
+      s_prop: "n_min",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`${s_type}`",
+      s_js_s_rs__initvalue: "a_n[0]",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_min")} = ${f_s_accessor_accumulator("n_min")}.min(v_in_fold);`',
+      s_js_s_rs__before_assignment_initvalue: "",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_min",
+          s_js_s_type: "`${s_type}`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    },
+    O_acc_property {
+      s_prop: "n_max",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`${s_type}`",
+      s_js_s_rs__initvalue: "a_n[0]",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_max")} = ${f_s_accessor_accumulator("n_max")}.max(v_in_fold);`',
+      s_js_s_rs__before_assignment_initvalue: "",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_max",
+          s_js_s_type: "`${s_type}`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    }
+  ],
+  [
+    O_acc_property {
+      s_prop: "n_mean",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`f64`",
+      s_js_s_rs__initvalue: "0.0",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_mean")} = ${f_s_accessor_accumulator("n_mean")}+(v_in_fold as f64 / n'... 7 more characters,
+      s_js_s_rs__before_assignment_initvalue: "let n_len = a_n.len() as f64;",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_sum",
+          s_js_s_type: "`f64`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_mean")} * n_len`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    }
+  ],
+  [
+    O_acc_property {
+      s_prop: "n_min",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`${s_type}`",
+      s_js_s_rs__initvalue: "a_n[0]",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_min")} = ${f_s_accessor_accumulator("n_min")}.min(v_in_fold);`',
+      s_js_s_rs__before_assignment_initvalue: "",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_min",
+          s_js_s_type: "`${s_type}`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    },
+    O_acc_property {
+      s_prop: "n_mean",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`f64`",
+      s_js_s_rs__initvalue: "0.0",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_mean")} = ${f_s_accessor_accumulator("n_mean")}+(v_in_fold as f64 / n'... 7 more characters,
+      s_js_s_rs__before_assignment_initvalue: "let n_len = a_n.len() as f64;",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_sum",
+          s_js_s_type: "`f64`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_mean")} * n_len`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    }
+  ],
+  [
+    O_acc_property {
+      s_prop: "n_max",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`${s_type}`",
+      s_js_s_rs__initvalue: "a_n[0]",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_max")} = ${f_s_accessor_accumulator("n_max")}.max(v_in_fold);`',
+      s_js_s_rs__before_assignment_initvalue: "",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_max",
+          s_js_s_type: "`${s_type}`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    },
+    O_acc_property {
+      s_prop: "n_mean",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`f64`",
+      s_js_s_rs__initvalue: "0.0",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_mean")} = ${f_s_accessor_accumulator("n_mean")}+(v_in_fold as f64 / n'... 7 more characters,
+      s_js_s_rs__before_assignment_initvalue: "let n_len = a_n.len() as f64;",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_sum",
+          s_js_s_type: "`f64`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_mean")} * n_len`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    }
+  ],
+  [
+    O_acc_property {
+      s_prop: "n_min",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`${s_type}`",
+      s_js_s_rs__initvalue: "a_n[0]",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_min")} = ${f_s_accessor_accumulator("n_min")}.min(v_in_fold);`',
+      s_js_s_rs__before_assignment_initvalue: "",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_min",
+          s_js_s_type: "`${s_type}`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    },
+    O_acc_property {
+      s_prop: "n_max",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`${s_type}`",
+      s_js_s_rs__initvalue: "a_n[0]",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_max")} = ${f_s_accessor_accumulator("n_max")}.max(v_in_fold);`',
+      s_js_s_rs__before_assignment_initvalue: "",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_max",
+          s_js_s_type: "`${s_type}`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    },
+    O_acc_property {
+      s_prop: "n_mean",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`f64`",
+      s_js_s_rs__initvalue: "0.0",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_mean")} = ${f_s_accessor_accumulator("n_mean")}+(v_in_fold as f64 / n'... 7 more characters,
+      s_js_s_rs__before_assignment_initvalue: "let n_len = a_n.len() as f64;",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_sum",
+          s_js_s_type: "`f64`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_mean")} * n_len`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    }
+  ],
+  [
+    O_acc_property {
+      s_prop: "n_mean",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`f64`",
+      s_js_s_rs__initvalue: "0.0",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_mean")} = ${f_s_accessor_accumulator("n_mean")}+(v_in_fold as f64 / n'... 7 more characters,
+      s_js_s_rs__before_assignment_initvalue: "let n_len = a_n.len() as f64;",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_sum",
+          s_js_s_type: "`f64`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_mean")} * n_len`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    },
+    O_acc_property {
+      s_prop: "n_variance",
+      a_s_prop_depending_on: [ "n_mean" ],
+      s_js_s_type: "`f64`",
+      s_js_s_rs__initvalue: "0.0",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_mean")} = ${f_s_accessor_accumulator("n_mean")} + (v_in_fold as f64).'... 9 more characters,
+      s_js_s_rs__before_assignment_initvalue: "",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_variance",
+          s_js_s_type: "`f64`",
+          s_js_s_rs__assignment_in_struct_return: '`(${f_s_accessor_result("n_variance")} / n_len) - ${f_s_accessor_result("n_mean")}.powi(2)`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    }
+  ],
+  [
+    O_acc_property {
+      s_prop: "n_min",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`${s_type}`",
+      s_js_s_rs__initvalue: "a_n[0]",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_min")} = ${f_s_accessor_accumulator("n_min")}.min(v_in_fold);`',
+      s_js_s_rs__before_assignment_initvalue: "",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_min",
+          s_js_s_type: "`${s_type}`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    },
+    O_acc_property {
+      s_prop: "n_mean",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`f64`",
+      s_js_s_rs__initvalue: "0.0",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_mean")} = ${f_s_accessor_accumulator("n_mean")}+(v_in_fold as f64 / n'... 7 more characters,
+      s_js_s_rs__before_assignment_initvalue: "let n_len = a_n.len() as f64;",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_sum",
+          s_js_s_type: "`f64`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_mean")} * n_len`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    },
+    O_acc_property {
+      s_prop: "n_variance",
+      a_s_prop_depending_on: [ "n_mean" ],
+      s_js_s_type: "`f64`",
+      s_js_s_rs__initvalue: "0.0",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_mean")} = ${f_s_accessor_accumulator("n_mean")} + (v_in_fold as f64).'... 9 more characters,
+      s_js_s_rs__before_assignment_initvalue: "",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_variance",
+          s_js_s_type: "`f64`",
+          s_js_s_rs__assignment_in_struct_return: '`(${f_s_accessor_result("n_variance")} / n_len) - ${f_s_accessor_result("n_mean")}.powi(2)`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    }
+  ],
+  [
+    O_acc_property {
+      s_prop: "n_max",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`${s_type}`",
+      s_js_s_rs__initvalue: "a_n[0]",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_max")} = ${f_s_accessor_accumulator("n_max")}.max(v_in_fold);`',
+      s_js_s_rs__before_assignment_initvalue: "",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_max",
+          s_js_s_type: "`${s_type}`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    },
+    O_acc_property {
+      s_prop: "n_mean",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`f64`",
+      s_js_s_rs__initvalue: "0.0",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_mean")} = ${f_s_accessor_accumulator("n_mean")}+(v_in_fold as f64 / n'... 7 more characters,
+      s_js_s_rs__before_assignment_initvalue: "let n_len = a_n.len() as f64;",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_sum",
+          s_js_s_type: "`f64`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_mean")} * n_len`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    },
+    O_acc_property {
+      s_prop: "n_variance",
+      a_s_prop_depending_on: [ "n_mean" ],
+      s_js_s_type: "`f64`",
+      s_js_s_rs__initvalue: "0.0",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_mean")} = ${f_s_accessor_accumulator("n_mean")} + (v_in_fold as f64).'... 9 more characters,
+      s_js_s_rs__before_assignment_initvalue: "",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_variance",
+          s_js_s_type: "`f64`",
+          s_js_s_rs__assignment_in_struct_return: '`(${f_s_accessor_result("n_variance")} / n_len) - ${f_s_accessor_result("n_mean")}.powi(2)`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    }
+  ],
+  [
+    O_acc_property {
+      s_prop: "n_min",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`${s_type}`",
+      s_js_s_rs__initvalue: "a_n[0]",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_min")} = ${f_s_accessor_accumulator("n_min")}.min(v_in_fold);`',
+      s_js_s_rs__before_assignment_initvalue: "",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_min",
+          s_js_s_type: "`${s_type}`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    },
+    O_acc_property {
+      s_prop: "n_max",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`${s_type}`",
+      s_js_s_rs__initvalue: "a_n[0]",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_max")} = ${f_s_accessor_accumulator("n_max")}.max(v_in_fold);`',
+      s_js_s_rs__before_assignment_initvalue: "",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_max",
+          s_js_s_type: "`${s_type}`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    },
+    O_acc_property {
+      s_prop: "n_mean",
+      a_s_prop_depending_on: [],
+      s_js_s_type: "`f64`",
+      s_js_s_rs__initvalue: "0.0",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_mean")} = ${f_s_accessor_accumulator("n_mean")}+(v_in_fold as f64 / n'... 7 more characters,
+      s_js_s_rs__before_assignment_initvalue: "let n_len = a_n.len() as f64;",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_sum",
+          s_js_s_type: "`f64`",
+          s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_mean")} * n_len`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    },
+    O_acc_property {
+      s_prop: "n_variance",
+      a_s_prop_depending_on: [ "n_mean" ],
+      s_js_s_type: "`f64`",
+      s_js_s_rs__initvalue: "0.0",
+      s_js_s_rs__inside_fold: '`${f_s_accessor_accumulator("n_mean")} = ${f_s_accessor_accumulator("n_mean")} + (v_in_fold as f64).'... 9 more characters,
+      s_js_s_rs__before_assignment_initvalue: "",
+      a_o_resulting_value_additional: [
+        O_resulting_value {
+          s_prop: "n_variance",
+          s_js_s_type: "`f64`",
+          s_js_s_rs__assignment_in_struct_return: '`(${f_s_accessor_result("n_variance")} / n_len) - ${f_s_accessor_result("n_mean")}.powi(2)`',
+          s_js_s_rs__before_assignment_in_struct: undefined
+        }
+      ]
+    }
+  ]
+]
+O_n_min
+O_n_max
+O_n_min_n_max
+O_n_mean
+O_n_min_n_mean
+O_n_max_n_mean
+O_n_min_n_max_n_mean
+O_n_mean_n_variance
+O_n_min_n_mean_n_variance
+O_n_max_n_mean_n_variance
+O_n_min_n_max_n_mean_n_variance
+[
+  undefined, undefined,
+  undefined, undefined,
+  undefined, undefined,
+  undefined, undefined,
+  undefined, undefined,
+  undefined
+]
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_min",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_min")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_resulting_value {
+  s_prop: "n_max",
+  s_js_s_type: "`${s_type}`",
+  s_js_s_rs__assignment_in_struct_return: '`${f_s_accessor_result("n_max")}`',
+  s_js_s_rs__before_assignment_in_struct: undefined
+}
+O_code_autoextended {
+  s_original: "use wasm_bindgen::prelude::*;\n" +
+    "// use rand::Rng; // rand crate is required\n" +
+    "use evalexpr::*;\n" +
+    "\n" +
+    "mod dyna"... 10527 more characters,
+  s_autoextended: "//This file was automatically generated on Mon Nov 13 2023 23:48:15 GMT+0100 (Central European Stand"... 60438 more characters,
+  a_o_rs_file: []
+}
+s_path_out: /home/legion5pro/code/statistics/src/main_autoextended.rs
+O_code_autoextended {
+  s_original: "// all code in this file was automatically generated!\n" +
+    "use wasm_bindgen::prelude::*;\n" +
+    "\n" +
+    "#[wasm_bindgen]"... 61765 more characters,
+  s_autoextended: "//This file was automatically generated on Mon Nov 13 2023 23:48:15 GMT+0100 (Central European Stand"... 61892 more characters,
+  a_o_rs_file: []
+}
+s_path_out: /home/legion5pro/code/statistics/src/dynamically_created_autoextended.rs

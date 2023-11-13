@@ -69,11 +69,11 @@ f_measure_time()
 //     wasm.f_a_n_mean_n_sum_n_min_n_max__for_u8_tuple(o_test_array_u8.a_n_t)
 // )
 // f_measure_time()
-f_measure_time('wasm min max mean sum, with struct')
-console.log(
-    wasm.f_a_n_mean_n_sum_n_min_n_max__for_u8(o_test_array_u8.a_n_t)
-)
-f_measure_time()
+// f_measure_time('wasm min max mean sum, with struct')
+// console.log(
+//     wasm.f_a_n_mean_n_sum_n_min_n_max__for_u8(o_test_array_u8.a_n_t)
+// )
+// f_measure_time()
 f_measure_time('wasm min... max... meansum...')
 console.log(
     [
@@ -119,29 +119,29 @@ f_measure_time('denostats module mean')
 console.log(mean2(o_test_array_u32.a_n_t))
 f_measure_time()
 
-f_measure_time('wasm mean')
-var o = (wasm.f_o_n_mean_n_sum__for_u32(o_test_array_u32.a_n_t))
+// f_measure_time('wasm mean')
+// var o = (wasm.f_o_n_mean_n_sum__for_u32(o_test_array_u32.a_n_t))
 
-console.log(`o.n_mean: ${o.n_mean}`)
-console.log(`o.n_mean_nor: ${o.n_mean_nor}`)
-console.log(`o.n_sum: ${o.n_sum}`)
-f_measure_time()
+// console.log(`o.n_mean: ${o.n_mean}`)
+// console.log(`o.n_mean_nor: ${o.n_mean_nor}`)
+// console.log(`o.n_sum: ${o.n_sum}`)
+// f_measure_time()
 
 
-f_measure_time('wasm mean f32')
-console.log(o_test_array_f32_small.a_n_t.length)
-let a_f32 = new Float32Array(
-    new Array(2_000_000).fill(0).map(()=>
-    (Math.random()-.5)*Math.pow(2,32)
-    ))
+// f_measure_time('wasm mean f32')
+// console.log(o_test_array_f32_small.a_n_t.length)
+// let a_f32 = new Float32Array(
+//     new Array(2_000_000).fill(0).map(()=>
+//     (Math.random()-.5)*Math.pow(2,32)
+//     ))
     
-    console.log(o_test_array_f32_small.a_n_t);
-    console.log(a_f32)
-var o = wasm.f_o_n_mean_n_sum__for_f32(a_f32)
-console.log(`o.n_mean: ${o.n_mean}`)
-console.log(`o.n_mean_nor: ${o.n_mean_nor}`)
-console.log(`o.n_sum: ${o.n_sum}`)
-f_measure_time()
+//     console.log(o_test_array_f32_small.a_n_t);
+//     console.log(a_f32)
+// var o = wasm.f_o_n_mean_n_sum__for_f32(a_f32)
+// console.log(`o.n_mean: ${o.n_mean}`)
+// console.log(`o.n_mean_nor: ${o.n_mean_nor}`)
+// console.log(`o.n_sum: ${o.n_sum}`)
+// f_measure_time()
 
 // now let the fun start
 f_measure_time('simplestatistics mean for 4 channel array')
@@ -163,17 +163,17 @@ console.log(mean(greens))
 console.log(mean(blues))
 console.log(mean(alphas))
 f_measure_time()
-f_measure_time('wasm mean, check this shit out')
-console.log(o_test_array_f32_small.a_n_t.length/4)
-var a_o = (wasm.f_a_o_n_mean_n_sum__for_f32(a_f32, 4))
-a_o.map(o=>{
-    console.log(o)
-    console.log(`o.n_mean: ${o.n_mean}`)
-    console.log(`o.n_mean_nor: ${o.n_mean_nor}`)
-    console.log(`o.n_sum: ${o.n_sum}`)
+// f_measure_time('wasm mean, check this shit out')
+// console.log(o_test_array_f32_small.a_n_t.length/4)
+// var a_o = (wasm.f_a_o_n_mean_n_sum__for_f32(a_f32, 4))
+// a_o.map(o=>{
+//     console.log(o)
+//     console.log(`o.n_mean: ${o.n_mean}`)
+//     console.log(`o.n_mean_nor: ${o.n_mean_nor}`)
+//     console.log(`o.n_sum: ${o.n_sum}`)
 
-})
-f_measure_time()
+// })
+// f_measure_time()
 
 
 // // console.log(

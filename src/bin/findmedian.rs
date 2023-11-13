@@ -1,8 +1,8 @@
+use std::env;
 use std::fs::File;
 use std::io::{self, Read};
 use std::path::Path;
-use std::env;
-use std::time::{Instant, Duration};
+use std::time::{Duration, Instant};
 
 fn read_file_and_find_median<P: AsRef<Path>>(path: P) -> io::Result<f32> {
     // Read the file
@@ -49,6 +49,5 @@ fn main() -> io::Result<()> {
 
     println!("Time taken: {} milliseconds", duration.as_millis());
 
-        
     Ok(())
 }

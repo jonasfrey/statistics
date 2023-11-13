@@ -1,3 +1,4 @@
+//This file was automatically generated on Tue Nov 14 2023 00:35:13 GMT+0100 (Central European Standard Time),(1699918513004)
 // all code in this file was automatically generated!
 use wasm_bindgen::prelude::*;
 
