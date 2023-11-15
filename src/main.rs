@@ -1,6 +1,6 @@
 use wasm_bindgen::prelude::*;
 // use rand::Rng; // rand crate is required
-use evalexpr::*;
+// use evalexpr::*;
 
 mod dynamically_created_autoextended;
 //code_autoextender_start
@@ -70,12 +70,8 @@ pub fn f_a_o_n_mean_n_sum__for_u8(a_n: &[u8], n_channels: usize) -> Vec<O_n_mean
 ////    }).join('\n')
 #[wasm_bindgen]
 pub fn f_n_min__for_u8(a_n: &[u8]) -> u8 {
-    let a_n__init = [u8::MAX];
-    let a_n__result = a_n.iter().fold(a_n__init, |mut a_n_acc, &val| {
-        a_n_acc[0] = a_n_acc[0].min(val);
-        a_n_acc
-    });
-    a_n__result[0]
+    return *a_n.iter().min().unwrap()
+    // return 55
 }
 #[wasm_bindgen]
 pub fn f_a_n_min__for_u8(a_n: &[u8], n_channels: usize) -> Vec<u8> {
@@ -321,34 +317,34 @@ fn remap_values(values: &[u64], new_max: u64) -> Vec<u64> {
         .collect()
 }
 
-#[wasm_bindgen]
-pub fn manipulate_each_element_with_expression(
-    arr: &mut [u8],
-    expression_template: &str,
-) -> Result<(), JsValue> {
-    for element in arr.iter_mut() {
-        let expression = expression_template.replace("{}", &element.to_string());
-        match eval(&expression).and_then(|result| result.as_number()) {
-            Ok(new_value) => {
-                // let clamped_value = new_value.max(0.0).min(255.0) as u8; // Clamping the value
-                *element = new_value as u8;
-            }
-            Err(e) => {
-                return Err(JsValue::from_str(&format!(
-                    "Error in expression evaluation: {}",
-                    e
-                )))
-            }
-        }
-    }
-    Ok(())
-}
+// #[wasm_bindgen]
+// pub fn manipulate_each_element_with_expression(
+//     arr: &mut [u8],
+//     expression_template: &str,
+// ) -> Result<(), JsValue> {
+//     for element in arr.iter_mut() {
+//         let expression = expression_template.replace("{}", &element.to_string());
+//         match eval(&expression).and_then(|result| result.as_number()) {
+//             Ok(new_value) => {
+//                 // let clamped_value = new_value.max(0.0).min(255.0) as u8; // Clamping the value
+//                 *element = new_value as u8;
+//             }
+//             Err(e) => {
+//                 return Err(JsValue::from_str(&format!(
+//                     "Error in expression evaluation: {}",
+//                     e
+//                 )))
+//             }
+//         }
+//     }
+//     Ok(())
+// }
 
 fn main() {
-    println!("Hello, world!");
-    let a_n_u8__test = [1, 2, 3, 4, 4, 3, 2, 1, 1, 2, 3, 4, 4, 3, 2, 1];
-    let a_o = f_a_o_n_mean_n_sum__for_u8(&a_n_u8__test, 4);
-    println!("a_o {:?}", a_o[0].n_mean);
+    // println!("Hello, world!");
+    // let a_n_u8__test = [1, 2, 3, 4, 4, 3, 2, 1, 1, 2, 3, 4, 4, 3, 2, 1];
+    // let a_o = f_a_o_n_mean_n_sum__for_u8(&a_n_u8__test, 4);
+    // println!("a_o {:?}", a_o[0].n_mean);
 
     // let length = 4096 * 4096;
     // let mut rng = rand::thread_rng();

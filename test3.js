@@ -49,7 +49,7 @@ let o_test_array_f32_small = o_testdata.a_o_test_array
 
 // let a_n_u8_2000mb_random =  await Deno.readFile('./random_test_data/random_bytes_2000mb.bin');
 // let a_n_u8_20G_random =  await Deno.readFile('./random_test_data/random_bytes_20G.bin');
-// let a_n_u8_10G_random =  await Deno.readFile('./random_test_data/random_bytes_10G.bin');
+let a_n_u8__2560000_random_bytes =  await Deno.readFile('./random_test_data/2560000_random_bytes');
 
 // var o = o_mod_functions.f_o_n_max(new Float32Array([
 //     2.123, 0.231, -231.23, 2.123 -0.33, 1012039.22
@@ -59,7 +59,7 @@ let o_test_array_f32_small = o_testdata.a_o_test_array
 
 
 // let a = o_test_array_u64.a_n_t
-let a = o_test_array_u16.a_n_t
+let a = a_n_u8__2560000_random_bytes
 // let a = o_test_array_u8.a_n_t
 // let a = a_n_u8_500mb_random
 // let a = new Uint8Array(a_n_u8_2000mb_random.buffer);

@@ -1,4 +1,4 @@
-//This file was automatically generated on Tue Nov 14 2023 00:35:13 GMT+0100 (Central European Standard Time),(1699918513004)
+//This file was automatically generated on Tue Nov 14 2023 12:51:12 GMT+0100 (Central European Standard Time),(1699962672549)
 // all code in this file was automatically generated!
 use wasm_bindgen::prelude::*;
 
@@ -10,18 +10,14 @@ pub struct O_n_min_return_for_u8 {
 
 #[wasm_bindgen]
 pub fn f_o_n_min_for_u8(a_n: &[u8]) -> O_n_min_return_for_u8 {
-    let v_init = vec![a_n[0]];
 
-    let v_result = a_n.iter().fold(v_init, |mut v_acc, &v_in_fold| {
-        v_acc[0] = v_acc[0].min(v_in_fold);
-        v_acc
-    });
 
     let mut a_o = Vec::new();
     for n_channel in 0..1 {
+        let n_min2 = *a_n.iter().min().unwrap();
         a_o.push(O_n_min_return_for_u8 {
-            n_min: v_result[0],
-            n_min_nor: (v_result[0]) as f64 / (u8::MAX - u8::MIN) as f64,
+            n_min: n_min2,
+            n_min_nor: (n_min2) as f64 / (u8::MAX - u8::MIN) as f64,
         });
     }
 

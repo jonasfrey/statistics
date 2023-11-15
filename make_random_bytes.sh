@@ -1,0 +1,1 @@
+dd bs=1024 count=512000 </dev/urandom > ./random_test_data/512000_random_bytes

@@ -1,0 +1,5616 @@
+{
+    "bytes_10_000": {
+        "run_0": {
+            "n_ms_native": "    1",
+            "n_ms_wasm": "    1"
+        },
+        "run_1": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_2": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_3": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_4": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_5": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_6": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_7": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_8": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_9": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_10": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_11": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_12": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_13": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_14": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_15": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_16": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_17": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_18": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_19": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_20": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_21": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_22": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_23": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_24": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_25": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_26": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_27": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_28": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_29": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_30": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_31": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_32": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_33": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_34": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_35": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_36": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_37": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_38": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_39": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_40": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_41": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_42": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_43": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_44": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_45": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_46": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_47": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_48": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_49": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_50": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_51": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_52": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_53": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_54": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_55": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_56": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_57": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_58": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_59": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_60": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_61": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_62": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_63": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_64": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_65": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_66": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_67": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_68": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_69": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_70": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_71": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_72": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_73": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_74": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_75": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_76": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_77": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_78": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_79": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_80": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_81": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_82": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_83": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_84": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_85": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_86": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_87": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_88": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_89": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_90": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_91": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_92": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_93": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_94": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_95": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_96": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_97": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_98": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_99": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_100": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_101": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_102": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_103": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_104": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_105": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_106": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_107": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_108": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_109": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_110": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_111": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_112": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_113": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_114": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_115": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_116": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_117": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_118": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_119": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_120": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_121": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_122": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_123": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_124": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_125": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_126": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_127": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_128": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_129": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_130": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_131": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_132": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_133": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_134": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_135": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_136": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_137": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_138": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_139": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_140": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_141": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_142": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_143": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_144": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_145": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_146": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_147": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_148": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_149": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_150": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_151": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_152": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_153": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_154": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_155": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_156": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_157": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_158": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_159": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_160": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_161": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_162": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_163": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_164": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_165": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_166": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_167": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_168": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_169": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_170": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_171": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_172": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_173": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_174": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_175": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_176": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_177": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_178": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_179": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_180": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_181": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_182": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_183": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_184": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_185": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_186": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_187": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_188": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_189": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_190": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_191": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_192": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_193": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_194": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_195": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_196": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_197": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_198": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_199": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        }
+    },
+    "bytes_100_000": {
+        "run_0": {
+            "n_ms_native": "    1",
+            "n_ms_wasm": "    0"
+        },
+        "run_1": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_2": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_3": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_4": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_5": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_6": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_7": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_8": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_9": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_10": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_11": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_12": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_13": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_14": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_15": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_16": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_17": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_18": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_19": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_20": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_21": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_22": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_23": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_24": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_25": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_26": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_27": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_28": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_29": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_30": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_31": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_32": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_33": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_34": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_35": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_36": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_37": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_38": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_39": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_40": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_41": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_42": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_43": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_44": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_45": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_46": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_47": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_48": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_49": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_50": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_51": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_52": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_53": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_54": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_55": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_56": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_57": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_58": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_59": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_60": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_61": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_62": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_63": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_64": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_65": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_66": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_67": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_68": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_69": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_70": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_71": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_72": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_73": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_74": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_75": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_76": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_77": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_78": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_79": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_80": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_81": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_82": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_83": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_84": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_85": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_86": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_87": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_88": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_89": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_90": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_91": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_92": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_93": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_94": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_95": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_96": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_97": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_98": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_99": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_100": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_101": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_102": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_103": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_104": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_105": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_106": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_107": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_108": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_109": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_110": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_111": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_112": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_113": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_114": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_115": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_116": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_117": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_118": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_119": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_120": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_121": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_122": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_123": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_124": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_125": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_126": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_127": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_128": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_129": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_130": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_131": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_132": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_133": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_134": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_135": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_136": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_137": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_138": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_139": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_140": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_141": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_142": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_143": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_144": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_145": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_146": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_147": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_148": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_149": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_150": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_151": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_152": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_153": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_154": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_155": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_156": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_157": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_158": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_159": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_160": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_161": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_162": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_163": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_164": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_165": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_166": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_167": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_168": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_169": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_170": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_171": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_172": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_173": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_174": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_175": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_176": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_177": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_178": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_179": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_180": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_181": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_182": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_183": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_184": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_185": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_186": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_187": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_188": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_189": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_190": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_191": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_192": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_193": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_194": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_195": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_196": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_197": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_198": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        },
+        "run_199": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    0"
+        }
+    },
+    "bytes_1_000_000": {
+        "run_0": {
+            "n_ms_native": "    4",
+            "n_ms_wasm": "    5"
+        },
+        "run_1": {
+            "n_ms_native": "    0",
+            "n_ms_wasm": "    1"
+        },
+        "run_2": {
+            "n_ms_native": "    1",
+            "n_ms_wasm": "    1"
+        },
+        "run_3": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_4": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_5": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_6": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_7": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_8": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_9": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_10": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_11": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_12": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_13": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_14": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_15": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_16": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_17": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_18": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_19": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_20": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_21": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_22": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_23": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_24": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_25": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_26": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_27": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_28": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_29": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_30": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_31": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_32": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_33": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_34": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_35": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_36": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_37": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_38": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_39": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_40": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_41": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_42": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_43": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_44": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_45": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_46": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_47": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_48": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_49": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_50": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_51": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_52": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_53": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_54": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_55": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_56": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_57": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_58": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_59": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_60": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_61": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_62": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_63": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_64": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_65": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_66": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_67": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_68": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_69": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_70": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_71": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_72": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_73": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_74": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_75": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_76": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_77": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_78": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_79": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_80": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_81": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_82": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_83": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_84": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_85": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_86": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_87": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_88": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_89": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_90": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_91": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_92": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_93": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_94": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_95": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_96": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_97": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_98": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_99": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_100": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_101": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_102": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_103": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_104": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_105": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_106": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_107": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_108": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_109": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_110": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_111": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_112": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_113": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_114": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_115": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_116": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_117": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_118": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_119": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_120": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_121": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_122": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_123": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_124": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_125": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_126": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_127": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_128": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_129": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_130": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_131": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_132": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_133": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_134": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_135": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_136": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_137": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_138": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_139": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_140": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_141": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_142": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_143": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_144": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_145": {
+            "n_ms_native": "    4",
+            "n_ms_wasm": "    1"
+        },
+        "run_146": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_147": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_148": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_149": {
+            "n_ms_native": "    4",
+            "n_ms_wasm": "    1"
+        },
+        "run_150": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_151": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_152": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_153": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_154": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_155": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_156": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_157": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_158": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_159": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_160": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_161": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_162": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_163": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_164": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_165": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_166": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_167": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_168": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_169": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_170": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_171": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_172": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_173": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_174": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_175": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_176": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_177": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_178": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_179": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_180": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_181": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_182": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_183": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_184": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_185": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_186": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_187": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_188": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_189": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_190": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_191": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_192": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_193": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_194": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_195": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_196": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_197": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_198": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        },
+        "run_199": {
+            "n_ms_native": "    3",
+            "n_ms_wasm": "    1"
+        }
+    },
+    "bytes_10_000_000": {
+        "run_0": {
+            "n_ms_native": "   40",
+            "n_ms_wasm": "   28"
+        },
+        "run_1": {
+            "n_ms_native": "    9",
+            "n_ms_wasm": "   15"
+        },
+        "run_2": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_3": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_4": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_5": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_6": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_7": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_8": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_9": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_10": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_11": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_12": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   16"
+        },
+        "run_13": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_14": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_15": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_16": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_17": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_18": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_19": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_20": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_21": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_22": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_23": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_24": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_25": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_26": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_27": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   16"
+        },
+        "run_28": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_29": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_30": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_31": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_32": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_33": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_34": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   16"
+        },
+        "run_35": {
+            "n_ms_native": "   37",
+            "n_ms_wasm": "   15"
+        },
+        "run_36": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_37": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_38": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_39": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_40": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   16"
+        },
+        "run_41": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_42": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_43": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_44": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_45": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_46": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_47": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   16"
+        },
+        "run_48": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   16"
+        },
+        "run_49": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_50": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_51": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_52": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_53": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_54": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_55": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_56": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_57": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_58": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_59": {
+            "n_ms_native": "   35",
+            "n_ms_wasm": "   16"
+        },
+        "run_60": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_61": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_62": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_63": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_64": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_65": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_66": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_67": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_68": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_69": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_70": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_71": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_72": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_73": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_74": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_75": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_76": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_77": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_78": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_79": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_80": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_81": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_82": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_83": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_84": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_85": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_86": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_87": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_88": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_89": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_90": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_91": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_92": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_93": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   17"
+        },
+        "run_94": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   16"
+        },
+        "run_95": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   16"
+        },
+        "run_96": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   16"
+        },
+        "run_97": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   16"
+        },
+        "run_98": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_99": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_100": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_101": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_102": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_103": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_104": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   16"
+        },
+        "run_105": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_106": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_107": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_108": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_109": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_110": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_111": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_112": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_113": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_114": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_115": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_116": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_117": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_118": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_119": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_120": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_121": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_122": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_123": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_124": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_125": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_126": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_127": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_128": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_129": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_130": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_131": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_132": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_133": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_134": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_135": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_136": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_137": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_138": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_139": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_140": {
+            "n_ms_native": "   33",
+            "n_ms_wasm": "   15"
+        },
+        "run_141": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_142": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_143": {
+            "n_ms_native": "   35",
+            "n_ms_wasm": "   15"
+        },
+        "run_144": {
+            "n_ms_native": "   38",
+            "n_ms_wasm": "   17"
+        },
+        "run_145": {
+            "n_ms_native": "   43",
+            "n_ms_wasm": "   19"
+        },
+        "run_146": {
+            "n_ms_native": "   41",
+            "n_ms_wasm": "   18"
+        },
+        "run_147": {
+            "n_ms_native": "   35",
+            "n_ms_wasm": "   16"
+        },
+        "run_148": {
+            "n_ms_native": "   35",
+            "n_ms_wasm": "   16"
+        },
+        "run_149": {
+            "n_ms_native": "   42",
+            "n_ms_wasm": "   19"
+        },
+        "run_150": {
+            "n_ms_native": "   36",
+            "n_ms_wasm": "   21"
+        },
+        "run_151": {
+            "n_ms_native": "   36",
+            "n_ms_wasm": "   18"
+        },
+        "run_152": {
+            "n_ms_native": "   35",
+            "n_ms_wasm": "   16"
+        },
+        "run_153": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_154": {
+            "n_ms_native": "   35",
+            "n_ms_wasm": "   15"
+        },
+        "run_155": {
+            "n_ms_native": "   35",
+            "n_ms_wasm": "   16"
+        },
+        "run_156": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   16"
+        },
+        "run_157": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   16"
+        },
+        "run_158": {
+            "n_ms_native": "   35",
+            "n_ms_wasm": "   17"
+        },
+        "run_159": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   16"
+        },
+        "run_160": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_161": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_162": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_163": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_164": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_165": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_166": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_167": {
+            "n_ms_native": "   35",
+            "n_ms_wasm": "   16"
+        },
+        "run_168": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   16"
+        },
+        "run_169": {
+            "n_ms_native": "   37",
+            "n_ms_wasm": "   16"
+        },
+        "run_170": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_171": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_172": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   16"
+        },
+        "run_173": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_174": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   16"
+        },
+        "run_175": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_176": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_177": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_178": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_179": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_180": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   17"
+        },
+        "run_181": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_182": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_183": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   16"
+        },
+        "run_184": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   16"
+        },
+        "run_185": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_186": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_187": {
+            "n_ms_native": "   35",
+            "n_ms_wasm": "   16"
+        },
+        "run_188": {
+            "n_ms_native": "   35",
+            "n_ms_wasm": "   16"
+        },
+        "run_189": {
+            "n_ms_native": "   35",
+            "n_ms_wasm": "   16"
+        },
+        "run_190": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   16"
+        },
+        "run_191": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   16"
+        },
+        "run_192": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_193": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_194": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   16"
+        },
+        "run_195": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   16"
+        },
+        "run_196": {
+            "n_ms_native": "   35",
+            "n_ms_wasm": "   17"
+        },
+        "run_197": {
+            "n_ms_native": "   36",
+            "n_ms_wasm": "   20"
+        },
+        "run_198": {
+            "n_ms_native": "   34",
+            "n_ms_wasm": "   15"
+        },
+        "run_199": {
+            "n_ms_native": "   35",
+            "n_ms_wasm": "   16"
+        }
+    },
+    "bytes_100_000_000": {
+        "run_0": {
+            "n_ms_native": "  252",
+            "n_ms_wasm": "  285"
+        },
+        "run_1": {
+            "n_ms_native": "   96",
+            "n_ms_wasm": "  152"
+        },
+        "run_2": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_3": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  152"
+        },
+        "run_4": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_5": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  152"
+        },
+        "run_6": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_7": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_8": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  153"
+        },
+        "run_9": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_10": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  153"
+        },
+        "run_11": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  152"
+        },
+        "run_12": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  152"
+        },
+        "run_13": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  152"
+        },
+        "run_14": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  153"
+        },
+        "run_15": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_16": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  152"
+        },
+        "run_17": {
+            "n_ms_native": "  340",
+            "n_ms_wasm": "  152"
+        },
+        "run_18": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_19": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  152"
+        },
+        "run_20": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_21": {
+            "n_ms_native": "  341",
+            "n_ms_wasm": "  152"
+        },
+        "run_22": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  152"
+        },
+        "run_23": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_24": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_25": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_26": {
+            "n_ms_native": "  339",
+            "n_ms_wasm": "  153"
+        },
+        "run_27": {
+            "n_ms_native": "  346",
+            "n_ms_wasm": "  158"
+        },
+        "run_28": {
+            "n_ms_native": "  341",
+            "n_ms_wasm": "  152"
+        },
+        "run_29": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_30": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_31": {
+            "n_ms_native": "  339",
+            "n_ms_wasm": "  152"
+        },
+        "run_32": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_33": {
+            "n_ms_native": "  339",
+            "n_ms_wasm": "  154"
+        },
+        "run_34": {
+            "n_ms_native": "  345",
+            "n_ms_wasm": "  155"
+        },
+        "run_35": {
+            "n_ms_native": "  339",
+            "n_ms_wasm": "  155"
+        },
+        "run_36": {
+            "n_ms_native": "  341",
+            "n_ms_wasm": "  153"
+        },
+        "run_37": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  153"
+        },
+        "run_38": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  152"
+        },
+        "run_39": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_40": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  153"
+        },
+        "run_41": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  152"
+        },
+        "run_42": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  155"
+        },
+        "run_43": {
+            "n_ms_native": "  344",
+            "n_ms_wasm": "  154"
+        },
+        "run_44": {
+            "n_ms_native": "  347",
+            "n_ms_wasm": "  156"
+        },
+        "run_45": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  152"
+        },
+        "run_46": {
+            "n_ms_native": "  341",
+            "n_ms_wasm": "  155"
+        },
+        "run_47": {
+            "n_ms_native": "  339",
+            "n_ms_wasm": "  152"
+        },
+        "run_48": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  152"
+        },
+        "run_49": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_50": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  152"
+        },
+        "run_51": {
+            "n_ms_native": "  339",
+            "n_ms_wasm": "  154"
+        },
+        "run_52": {
+            "n_ms_native": "  340",
+            "n_ms_wasm": "  156"
+        },
+        "run_53": {
+            "n_ms_native": "  339",
+            "n_ms_wasm": "  152"
+        },
+        "run_54": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_55": {
+            "n_ms_native": "  339",
+            "n_ms_wasm": "  152"
+        },
+        "run_56": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_57": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_58": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  154"
+        },
+        "run_59": {
+            "n_ms_native": "  342",
+            "n_ms_wasm": "  157"
+        },
+        "run_60": {
+            "n_ms_native": "  342",
+            "n_ms_wasm": "  155"
+        },
+        "run_61": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  152"
+        },
+        "run_62": {
+            "n_ms_native": "  343",
+            "n_ms_wasm": "  155"
+        },
+        "run_63": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  153"
+        },
+        "run_64": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  152"
+        },
+        "run_65": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_66": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_67": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_68": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_69": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_70": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  152"
+        },
+        "run_71": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_72": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_73": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_74": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_75": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_76": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_77": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_78": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  153"
+        },
+        "run_79": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_80": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_81": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_82": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_83": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_84": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_85": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_86": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_87": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_88": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  152"
+        },
+        "run_89": {
+            "n_ms_native": "  339",
+            "n_ms_wasm": "  155"
+        },
+        "run_90": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  152"
+        },
+        "run_91": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  153"
+        },
+        "run_92": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  152"
+        },
+        "run_93": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  152"
+        },
+        "run_94": {
+            "n_ms_native": "  343",
+            "n_ms_wasm": "  154"
+        },
+        "run_95": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  152"
+        },
+        "run_96": {
+            "n_ms_native": "  341",
+            "n_ms_wasm": "  152"
+        },
+        "run_97": {
+            "n_ms_native": "  342",
+            "n_ms_wasm": "  158"
+        },
+        "run_98": {
+            "n_ms_native": "  339",
+            "n_ms_wasm": "  155"
+        },
+        "run_99": {
+            "n_ms_native": "  343",
+            "n_ms_wasm": "  153"
+        },
+        "run_100": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  155"
+        },
+        "run_101": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  152"
+        },
+        "run_102": {
+            "n_ms_native": "  339",
+            "n_ms_wasm": "  153"
+        },
+        "run_103": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_104": {
+            "n_ms_native": "  339",
+            "n_ms_wasm": "  152"
+        },
+        "run_105": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_106": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_107": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_108": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_109": {
+            "n_ms_native": "  339",
+            "n_ms_wasm": "  152"
+        },
+        "run_110": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  153"
+        },
+        "run_111": {
+            "n_ms_native": "  335",
+            "n_ms_wasm": "  152"
+        },
+        "run_112": {
+            "n_ms_native": "  339",
+            "n_ms_wasm": "  153"
+        },
+        "run_113": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_114": {
+            "n_ms_native": "  341",
+            "n_ms_wasm": "  153"
+        },
+        "run_115": {
+            "n_ms_native": "  339",
+            "n_ms_wasm": "  154"
+        },
+        "run_116": {
+            "n_ms_native": "  340",
+            "n_ms_wasm": "  154"
+        },
+        "run_117": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  154"
+        },
+        "run_118": {
+            "n_ms_native": "  341",
+            "n_ms_wasm": "  152"
+        },
+        "run_119": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  153"
+        },
+        "run_120": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  153"
+        },
+        "run_121": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_122": {
+            "n_ms_native": "  336",
+            "n_ms_wasm": "  152"
+        },
+        "run_123": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  152"
+        },
+        "run_124": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  153"
+        },
+        "run_125": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  152"
+        },
+        "run_126": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  156"
+        },
+        "run_127": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  152"
+        },
+        "run_128": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  152"
+        },
+        "run_129": {
+            "n_ms_native": "  340",
+            "n_ms_wasm": "  156"
+        },
+        "run_130": {
+            "n_ms_native": "  345",
+            "n_ms_wasm": "  155"
+        },
+        "run_131": {
+            "n_ms_native": "  339",
+            "n_ms_wasm": "  154"
+        },
+        "run_132": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  156"
+        },
+        "run_133": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  153"
+        },
+        "run_134": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  154"
+        },
+        "run_135": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  153"
+        },
+        "run_136": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  152"
+        },
+        "run_137": {
+            "n_ms_native": "  337",
+            "n_ms_wasm": "  155"
+        },
+        "run_138": {
+            "n_ms_native": "  342",
+            "n_ms_wasm": "  153"
+        },
+        "run_139": {
+            "n_ms_native": "  338",
+            "n_ms_wasm": "  153"
+        },
+        "run_140": {
+            "n_ms_native": "  339",
+            "n_ms_wasm": "  152"
+        },
+        "run_141": {
+            "n_ms_native": "  344",
+            "n_ms_wasm": "  154"
+        },
+        "run_142": {
+            "n_ms_native": "  348",
+            "n_ms_wasm": "  157"
+        },
+        "run_143": {
+            "n_ms_native": "  350",
+            "n_ms_wasm": "  156"
+        },
+        "run_144": {
+            "n_ms_native": "  395",
+            "n_ms_wasm": "  170"
+        },
+        "run_145": {
+            "n_ms_native": "  441",
+            "n_ms_wasm": "  185"
+        },
+        "run_146": {
+            "n_ms_native": "  410",
+            "n_ms_wasm": "  176"
+        },
+        "run_147": {
+            "n_ms_native": "  358",
+            "n_ms_wasm": "  157"
+        },
+        "run_148": {
+            "n_ms_native": "  357",
+            "n_ms_wasm": "  173"
+        },
+        "run_149": {
+            "n_ms_native": "  360",
+            "n_ms_wasm": "  162"
+        },
+        "run_150": {
+            "n_ms_native": "  368",
+            "n_ms_wasm": "  157"
+        },
+        "run_151": {
+            "n_ms_native": "  366",
+            "n_ms_wasm": "  158"
+        },
+        "run_152": {
+            "n_ms_native": "  355",
+            "n_ms_wasm": "  155"
+        },
+        "run_153": {
+            "n_ms_native": "  356",
+            "n_ms_wasm": "  156"
+        },
+        "run_154": {
+            "n_ms_native": "  354",
+            "n_ms_wasm": "  156"
+        },
+        "run_155": {
+            "n_ms_native": "  354",
+            "n_ms_wasm": "  154"
+        },
+        "run_156": {
+            "n_ms_native": "  351",
+            "n_ms_wasm": "  154"
+        },
+        "run_157": {
+            "n_ms_native": "  350",
+            "n_ms_wasm": "  154"
+        },
+        "run_158": {
+            "n_ms_native": "  353",
+            "n_ms_wasm": "  154"
+        },
+        "run_159": {
+            "n_ms_native": "  359",
+            "n_ms_wasm": "  153"
+        },
+        "run_160": {
+            "n_ms_native": "  345",
+            "n_ms_wasm": "  153"
+        },
+        "run_161": {
+            "n_ms_native": "  344",
+            "n_ms_wasm": "  152"
+        },
+        "run_162": {
+            "n_ms_native": "  344",
+            "n_ms_wasm": "  153"
+        },
+        "run_163": {
+            "n_ms_native": "  343",
+            "n_ms_wasm": "  152"
+        },
+        "run_164": {
+            "n_ms_native": "  342",
+            "n_ms_wasm": "  152"
+        },
+        "run_165": {
+            "n_ms_native": "  345",
+            "n_ms_wasm": "  154"
+        },
+        "run_166": {
+            "n_ms_native": "  358",
+            "n_ms_wasm": "  153"
+        },
+        "run_167": {
+            "n_ms_native": "  347",
+            "n_ms_wasm": "  153"
+        },
+        "run_168": {
+            "n_ms_native": "  348",
+            "n_ms_wasm": "  153"
+        },
+        "run_169": {
+            "n_ms_native": "  345",
+            "n_ms_wasm": "  153"
+        },
+        "run_170": {
+            "n_ms_native": "  345",
+            "n_ms_wasm": "  152"
+        },
+        "run_171": {
+            "n_ms_native": "  344",
+            "n_ms_wasm": "  153"
+        },
+        "run_172": {
+            "n_ms_native": "  344",
+            "n_ms_wasm": "  153"
+        },
+        "run_173": {
+            "n_ms_native": "  345",
+            "n_ms_wasm": "  153"
+        },
+        "run_174": {
+            "n_ms_native": "  342",
+            "n_ms_wasm": "  152"
+        },
+        "run_175": {
+            "n_ms_native": "  343",
+            "n_ms_wasm": "  152"
+        },
+        "run_176": {
+            "n_ms_native": "  355",
+            "n_ms_wasm": "  153"
+        },
+        "run_177": {
+            "n_ms_native": "  343",
+            "n_ms_wasm": "  152"
+        },
+        "run_178": {
+            "n_ms_native": "  343",
+            "n_ms_wasm": "  152"
+        },
+        "run_179": {
+            "n_ms_native": "  343",
+            "n_ms_wasm": "  152"
+        },
+        "run_180": {
+            "n_ms_native": "  351",
+            "n_ms_wasm": "  152"
+        },
+        "run_181": {
+            "n_ms_native": "  344",
+            "n_ms_wasm": "  152"
+        },
+        "run_182": {
+            "n_ms_native": "  345",
+            "n_ms_wasm": "  153"
+        },
+        "run_183": {
+            "n_ms_native": "  353",
+            "n_ms_wasm": "  152"
+        },
+        "run_184": {
+            "n_ms_native": "  344",
+            "n_ms_wasm": "  152"
+        },
+        "run_185": {
+            "n_ms_native": "  347",
+            "n_ms_wasm": "  153"
+        },
+        "run_186": {
+            "n_ms_native": "  345",
+            "n_ms_wasm": "  153"
+        },
+        "run_187": {
+            "n_ms_native": "  347",
+            "n_ms_wasm": "  153"
+        },
+        "run_188": {
+            "n_ms_native": "  347",
+            "n_ms_wasm": "  153"
+        },
+        "run_189": {
+            "n_ms_native": "  347",
+            "n_ms_wasm": "  153"
+        },
+        "run_190": {
+            "n_ms_native": "  356",
+            "n_ms_wasm": "  154"
+        },
+        "run_191": {
+            "n_ms_native": "  346",
+            "n_ms_wasm": "  152"
+        },
+        "run_192": {
+            "n_ms_native": "  345",
+            "n_ms_wasm": "  152"
+        },
+        "run_193": {
+            "n_ms_native": "  345",
+            "n_ms_wasm": "  154"
+        },
+        "run_194": {
+            "n_ms_native": "  345",
+            "n_ms_wasm": "  153"
+        },
+        "run_195": {
+            "n_ms_native": "  345",
+            "n_ms_wasm": "  152"
+        },
+        "run_196": {
+            "n_ms_native": "  346",
+            "n_ms_wasm": "  153"
+        },
+        "run_197": {
+            "n_ms_native": "  351",
+            "n_ms_wasm": "  153"
+        },
+        "run_198": {
+            "n_ms_native": "  346",
+            "n_ms_wasm": "  153"
+        },
+        "run_199": {
+            "n_ms_native": "  347",
+            "n_ms_wasm": "  153"
+        }
+    },
+    "bytes_1_000_000_000": {
+        "run_0": {
+            "n_ms_native": " 2525",
+            "n_ms_wasm": " 2849"
+        },
+        "run_1": {
+            "n_ms_native": "  970",
+            "n_ms_wasm": " 1523"
+        },
+        "run_2": {
+            "n_ms_native": " 3357",
+            "n_ms_wasm": " 1521"
+        },
+        "run_3": {
+            "n_ms_native": " 3358",
+            "n_ms_wasm": " 1523"
+        },
+        "run_4": {
+            "n_ms_native": " 3357",
+            "n_ms_wasm": " 1520"
+        },
+        "run_5": {
+            "n_ms_native": " 3361",
+            "n_ms_wasm": " 1522"
+        },
+        "run_6": {
+            "n_ms_native": " 3358",
+            "n_ms_wasm": " 1522"
+        },
+        "run_7": {
+            "n_ms_native": " 3366",
+            "n_ms_wasm": " 1523"
+        },
+        "run_8": {
+            "n_ms_native": " 3383",
+            "n_ms_wasm": " 1530"
+        },
+        "run_9": {
+            "n_ms_native": " 3362",
+            "n_ms_wasm": " 1528"
+        },
+        "run_10": {
+            "n_ms_native": " 3368",
+            "n_ms_wasm": " 1562"
+        },
+        "run_11": {
+            "n_ms_native": " 3367",
+            "n_ms_wasm": " 1526"
+        },
+        "run_12": {
+            "n_ms_native": " 3358",
+            "n_ms_wasm": " 1527"
+        },
+        "run_13": {
+            "n_ms_native": " 3360",
+            "n_ms_wasm": " 1528"
+        },
+        "run_14": {
+            "n_ms_native": " 3377",
+            "n_ms_wasm": " 1536"
+        },
+        "run_15": {
+            "n_ms_native": " 3359",
+            "n_ms_wasm": " 1521"
+        },
+        "run_16": {
+            "n_ms_native": " 3381",
+            "n_ms_wasm": " 1531"
+        },
+        "run_17": {
+            "n_ms_native": " 3382",
+            "n_ms_wasm": " 1525"
+        },
+        "run_18": {
+            "n_ms_native": " 3371",
+            "n_ms_wasm": " 1527"
+        },
+        "run_19": {
+            "n_ms_native": " 3364",
+            "n_ms_wasm": " 1565"
+        },
+        "run_20": {
+            "n_ms_native": " 3374",
+            "n_ms_wasm": " 1531"
+        },
+        "run_21": {
+            "n_ms_native": " 3388",
+            "n_ms_wasm": " 1530"
+        },
+        "run_22": {
+            "n_ms_native": " 3370",
+            "n_ms_wasm": " 1544"
+        },
+        "run_23": {
+            "n_ms_native": " 3369",
+            "n_ms_wasm": " 1527"
+        },
+        "run_24": {
+            "n_ms_native": " 3372",
+            "n_ms_wasm": " 1536"
+        },
+        "run_25": {
+            "n_ms_native": " 3365",
+            "n_ms_wasm": " 1526"
+        },
+        "run_26": {
+            "n_ms_native": " 3399",
+            "n_ms_wasm": " 1543"
+        },
+        "run_27": {
+            "n_ms_native": " 3443",
+            "n_ms_wasm": " 1586"
+        },
+        "run_28": {
+            "n_ms_native": " 3382",
+            "n_ms_wasm": " 1530"
+        },
+        "run_29": {
+            "n_ms_native": " 3363",
+            "n_ms_wasm": " 1522"
+        },
+        "run_30": {
+            "n_ms_native": " 3364",
+            "n_ms_wasm": " 1534"
+        },
+        "run_31": {
+            "n_ms_native": " 3363",
+            "n_ms_wasm": " 1552"
+        },
+        "run_32": {
+            "n_ms_native": " 3383",
+            "n_ms_wasm": " 1531"
+        },
+        "run_33": {
+            "n_ms_native": " 3399",
+            "n_ms_wasm": " 1527"
+        },
+        "run_34": {
+            "n_ms_native": " 3409",
+            "n_ms_wasm": " 1536"
+        },
+        "run_35": {
+            "n_ms_native": " 3379",
+            "n_ms_wasm": " 1525"
+        },
+        "run_36": {
+            "n_ms_native": " 3374",
+            "n_ms_wasm": " 1548"
+        },
+        "run_37": {
+            "n_ms_native": " 3406",
+            "n_ms_wasm": " 1533"
+        },
+        "run_38": {
+            "n_ms_native": " 3367",
+            "n_ms_wasm": " 1524"
+        },
+        "run_39": {
+            "n_ms_native": " 3380",
+            "n_ms_wasm": " 1528"
+        },
+        "run_40": {
+            "n_ms_native": " 3361",
+            "n_ms_wasm": " 1531"
+        },
+        "run_41": {
+            "n_ms_native": " 3371",
+            "n_ms_wasm": " 1526"
+        },
+        "run_42": {
+            "n_ms_native": " 3369",
+            "n_ms_wasm": " 1538"
+        },
+        "run_43": {
+            "n_ms_native": " 3384",
+            "n_ms_wasm": " 1531"
+        },
+        "run_44": {
+            "n_ms_native": " 3398",
+            "n_ms_wasm": " 1547"
+        },
+        "run_45": {
+            "n_ms_native": " 3386",
+            "n_ms_wasm": " 1534"
+        },
+        "run_46": {
+            "n_ms_native": " 3398",
+            "n_ms_wasm": " 1533"
+        },
+        "run_47": {
+            "n_ms_native": " 3373",
+            "n_ms_wasm": " 1527"
+        },
+        "run_48": {
+            "n_ms_native": " 3370",
+            "n_ms_wasm": " 1522"
+        },
+        "run_49": {
+            "n_ms_native": " 3365",
+            "n_ms_wasm": " 1523"
+        },
+        "run_50": {
+            "n_ms_native": " 3358",
+            "n_ms_wasm": " 1523"
+        },
+        "run_51": {
+            "n_ms_native": " 3393",
+            "n_ms_wasm": " 1524"
+        },
+        "run_52": {
+            "n_ms_native": " 3392",
+            "n_ms_wasm": " 1542"
+        },
+        "run_53": {
+            "n_ms_native": " 3379",
+            "n_ms_wasm": " 1522"
+        },
+        "run_54": {
+            "n_ms_native": " 3366",
+            "n_ms_wasm": " 1522"
+        },
+        "run_55": {
+            "n_ms_native": " 3358",
+            "n_ms_wasm": " 1523"
+        },
+        "run_56": {
+            "n_ms_native": " 3363",
+            "n_ms_wasm": " 1527"
+        },
+        "run_57": {
+            "n_ms_native": " 3366",
+            "n_ms_wasm": " 1524"
+        },
+        "run_58": {
+            "n_ms_native": " 3390",
+            "n_ms_wasm": " 1548"
+        },
+        "run_59": {
+            "n_ms_native": " 3392",
+            "n_ms_wasm": " 1541"
+        },
+        "run_60": {
+            "n_ms_native": " 3403",
+            "n_ms_wasm": " 1534"
+        },
+        "run_61": {
+            "n_ms_native": " 3417",
+            "n_ms_wasm": " 1544"
+        },
+        "run_62": {
+            "n_ms_native": " 3415",
+            "n_ms_wasm": " 1572"
+        },
+        "run_63": {
+            "n_ms_native": " 3385",
+            "n_ms_wasm": " 1537"
+        },
+        "run_64": {
+            "n_ms_native": " 3363",
+            "n_ms_wasm": " 1523"
+        },
+        "run_65": {
+            "n_ms_native": " 3360",
+            "n_ms_wasm": " 1526"
+        },
+        "run_66": {
+            "n_ms_native": " 3359",
+            "n_ms_wasm": " 1523"
+        },
+        "run_67": {
+            "n_ms_native": " 3358",
+            "n_ms_wasm": " 1522"
+        },
+        "run_68": {
+            "n_ms_native": " 3359",
+            "n_ms_wasm": " 1522"
+        },
+        "run_69": {
+            "n_ms_native": " 3362",
+            "n_ms_wasm": " 1522"
+        },
+        "run_70": {
+            "n_ms_native": " 3358",
+            "n_ms_wasm": " 1525"
+        },
+        "run_71": {
+            "n_ms_native": " 3361",
+            "n_ms_wasm": " 1523"
+        },
+        "run_72": {
+            "n_ms_native": " 3364",
+            "n_ms_wasm": " 1526"
+        },
+        "run_73": {
+            "n_ms_native": " 3359",
+            "n_ms_wasm": " 1523"
+        },
+        "run_74": {
+            "n_ms_native": " 3358",
+            "n_ms_wasm": " 1522"
+        },
+        "run_75": {
+            "n_ms_native": " 3362",
+            "n_ms_wasm": " 1522"
+        },
+        "run_76": {
+            "n_ms_native": " 3361",
+            "n_ms_wasm": " 1530"
+        },
+        "run_77": {
+            "n_ms_native": " 3359",
+            "n_ms_wasm": " 1523"
+        },
+        "run_78": {
+            "n_ms_native": " 3358",
+            "n_ms_wasm": " 1522"
+        },
+        "run_79": {
+            "n_ms_native": " 3358",
+            "n_ms_wasm": " 1520"
+        },
+        "run_80": {
+            "n_ms_native": " 3362",
+            "n_ms_wasm": " 1523"
+        },
+        "run_81": {
+            "n_ms_native": " 3357",
+            "n_ms_wasm": " 1522"
+        },
+        "run_82": {
+            "n_ms_native": " 3364",
+            "n_ms_wasm": " 1524"
+        },
+        "run_83": {
+            "n_ms_native": " 3388",
+            "n_ms_wasm": " 1550"
+        },
+        "run_84": {
+            "n_ms_native": " 3370",
+            "n_ms_wasm": " 1525"
+        },
+        "run_85": {
+            "n_ms_native": " 3358",
+            "n_ms_wasm": " 1521"
+        },
+        "run_86": {
+            "n_ms_native": " 3390",
+            "n_ms_wasm": " 1555"
+        },
+        "run_87": {
+            "n_ms_native": " 3368",
+            "n_ms_wasm": " 1525"
+        },
+        "run_88": {
+            "n_ms_native": " 3386",
+            "n_ms_wasm": " 1526"
+        },
+        "run_89": {
+            "n_ms_native": " 3386",
+            "n_ms_wasm": " 1542"
+        },
+        "run_90": {
+            "n_ms_native": " 3389",
+            "n_ms_wasm": " 1524"
+        },
+        "run_91": {
+            "n_ms_native": " 3379",
+            "n_ms_wasm": " 1528"
+        },
+        "run_92": {
+            "n_ms_native": " 3366",
+            "n_ms_wasm": " 1523"
+        },
+        "run_93": {
+            "n_ms_native": " 3364",
+            "n_ms_wasm": " 1524"
+        },
+        "run_94": {
+            "n_ms_native": " 3368",
+            "n_ms_wasm": " 1523"
+        },
+        "run_95": {
+            "n_ms_native": " 3363",
+            "n_ms_wasm": " 1524"
+        },
+        "run_96": {
+            "n_ms_native": " 3405",
+            "n_ms_wasm": " 1552"
+        },
+        "run_97": {
+            "n_ms_native": " 3414",
+            "n_ms_wasm": " 1593"
+        },
+        "run_98": {
+            "n_ms_native": " 3401",
+            "n_ms_wasm": " 1549"
+        },
+        "run_99": {
+            "n_ms_native": " 3386",
+            "n_ms_wasm": " 1530"
+        },
+        "run_100": {
+            "n_ms_native": " 3405",
+            "n_ms_wasm": " 1538"
+        },
+        "run_101": {
+            "n_ms_native": " 3369",
+            "n_ms_wasm": " 1526"
+        },
+        "run_102": {
+            "n_ms_native": " 3385",
+            "n_ms_wasm": " 1530"
+        },
+        "run_103": {
+            "n_ms_native": " 3365",
+            "n_ms_wasm": " 1523"
+        },
+        "run_104": {
+            "n_ms_native": " 3364",
+            "n_ms_wasm": " 1521"
+        },
+        "run_105": {
+            "n_ms_native": " 3367",
+            "n_ms_wasm": " 1523"
+        },
+        "run_106": {
+            "n_ms_native": " 3364",
+            "n_ms_wasm": " 1529"
+        },
+        "run_107": {
+            "n_ms_native": " 3359",
+            "n_ms_wasm": " 1523"
+        },
+        "run_108": {
+            "n_ms_native": " 3365",
+            "n_ms_wasm": " 1526"
+        },
+        "run_109": {
+            "n_ms_native": " 3370",
+            "n_ms_wasm": " 1525"
+        },
+        "run_110": {
+            "n_ms_native": " 3381",
+            "n_ms_wasm": " 1550"
+        },
+        "run_111": {
+            "n_ms_native": " 3359",
+            "n_ms_wasm": " 1522"
+        },
+        "run_112": {
+            "n_ms_native": " 3379",
+            "n_ms_wasm": " 1528"
+        },
+        "run_113": {
+            "n_ms_native": " 3376",
+            "n_ms_wasm": " 1530"
+        },
+        "run_114": {
+            "n_ms_native": " 3376",
+            "n_ms_wasm": " 1523"
+        },
+        "run_115": {
+            "n_ms_native": " 3395",
+            "n_ms_wasm": " 1538"
+        },
+        "run_116": {
+            "n_ms_native": " 3399",
+            "n_ms_wasm": " 1527"
+        },
+        "run_117": {
+            "n_ms_native": " 3383",
+            "n_ms_wasm": " 1522"
+        },
+        "run_118": {
+            "n_ms_native": " 3387",
+            "n_ms_wasm": " 1545"
+        },
+        "run_119": {
+            "n_ms_native": " 3372",
+            "n_ms_wasm": " 1555"
+        },
+        "run_120": {
+            "n_ms_native": " 3365",
+            "n_ms_wasm": " 1526"
+        },
+        "run_121": {
+            "n_ms_native": " 3363",
+            "n_ms_wasm": " 1522"
+        },
+        "run_122": {
+            "n_ms_native": " 3371",
+            "n_ms_wasm": " 1526"
+        },
+        "run_123": {
+            "n_ms_native": " 3377",
+            "n_ms_wasm": " 1526"
+        },
+        "run_124": {
+            "n_ms_native": " 3388",
+            "n_ms_wasm": " 1534"
+        },
+        "run_125": {
+            "n_ms_native": " 3375",
+            "n_ms_wasm": " 1524"
+        },
+        "run_126": {
+            "n_ms_native": " 3405",
+            "n_ms_wasm": " 1545"
+        },
+        "run_127": {
+            "n_ms_native": " 3399",
+            "n_ms_wasm": " 1525"
+        },
+        "run_128": {
+            "n_ms_native": " 3396",
+            "n_ms_wasm": " 1533"
+        },
+        "run_129": {
+            "n_ms_native": " 3398",
+            "n_ms_wasm": " 1538"
+        },
+        "run_130": {
+            "n_ms_native": " 3435",
+            "n_ms_wasm": " 1548"
+        },
+        "run_131": {
+            "n_ms_native": " 3395",
+            "n_ms_wasm": " 1532"
+        },
+        "run_132": {
+            "n_ms_native": " 3383",
+            "n_ms_wasm": " 1532"
+        },
+        "run_133": {
+            "n_ms_native": " 3380",
+            "n_ms_wasm": " 1533"
+        },
+        "run_134": {
+            "n_ms_native": " 3376",
+            "n_ms_wasm": " 1536"
+        },
+        "run_135": {
+            "n_ms_native": " 3375",
+            "n_ms_wasm": " 1536"
+        },
+        "run_136": {
+            "n_ms_native": " 3373",
+            "n_ms_wasm": " 1528"
+        },
+        "run_137": {
+            "n_ms_native": " 3388",
+            "n_ms_wasm": " 1532"
+        },
+        "run_138": {
+            "n_ms_native": " 3408",
+            "n_ms_wasm": " 1531"
+        },
+        "run_139": {
+            "n_ms_native": " 3389",
+            "n_ms_wasm": " 1539"
+        },
+        "run_140": {
+            "n_ms_native": " 3384",
+            "n_ms_wasm": " 1534"
+        },
+        "run_141": {
+            "n_ms_native": " 3483",
+            "n_ms_wasm": " 1572"
+        },
+        "run_142": {
+            "n_ms_native": " 3550",
+            "n_ms_wasm": " 1582"
+        },
+        "run_143": {
+            "n_ms_native": " 3509",
+            "n_ms_wasm": " 1579"
+        },
+        "run_144": {
+            "n_ms_native": " 3791",
+            "n_ms_wasm": " 1580"
+        },
+        "run_145": {
+            "n_ms_native": " 4389",
+            "n_ms_wasm": " 1842"
+        },
+        "run_146": {
+            "n_ms_native": " 4131",
+            "n_ms_wasm": " 1736"
+        },
+        "run_147": {
+            "n_ms_native": " 3575",
+            "n_ms_wasm": " 1558"
+        },
+        "run_148": {
+            "n_ms_native": " 3539",
+            "n_ms_wasm": " 1622"
+        },
+        "run_149": {
+            "n_ms_native": " 3580",
+            "n_ms_wasm": " 1599"
+        },
+        "run_150": {
+            "n_ms_native": " 3570",
+            "n_ms_wasm": " 1603"
+        },
+        "run_151": {
+            "n_ms_native": " 3584",
+            "n_ms_wasm": " 1570"
+        },
+        "run_152": {
+            "n_ms_native": " 3524",
+            "n_ms_wasm": " 1570"
+        },
+        "run_153": {
+            "n_ms_native": " 3520",
+            "n_ms_wasm": " 1613"
+        },
+        "run_154": {
+            "n_ms_native": " 3548",
+            "n_ms_wasm": " 1563"
+        },
+        "run_155": {
+            "n_ms_native": " 3543",
+            "n_ms_wasm": " 1552"
+        },
+        "run_156": {
+            "n_ms_native": " 3534",
+            "n_ms_wasm": " 1575"
+        },
+        "run_157": {
+            "n_ms_native": " 3508",
+            "n_ms_wasm": " 1583"
+        },
+        "run_158": {
+            "n_ms_native": " 3484",
+            "n_ms_wasm": " 1548"
+        },
+        "run_159": {
+            "n_ms_native": " 3446",
+            "n_ms_wasm": " 1543"
+        },
+        "run_160": {
+            "n_ms_native": " 3448",
+            "n_ms_wasm": " 1530"
+        },
+        "run_161": {
+            "n_ms_native": " 3438",
+            "n_ms_wasm": " 1529"
+        },
+        "run_162": {
+            "n_ms_native": " 3437",
+            "n_ms_wasm": " 1528"
+        },
+        "run_163": {
+            "n_ms_native": " 3434",
+            "n_ms_wasm": " 1528"
+        },
+        "run_164": {
+            "n_ms_native": " 3423",
+            "n_ms_wasm": " 1525"
+        },
+        "run_165": {
+            "n_ms_native": " 3486",
+            "n_ms_wasm": " 1536"
+        },
+        "run_166": {
+            "n_ms_native": " 3450",
+            "n_ms_wasm": " 1578"
+        },
+        "run_167": {
+            "n_ms_native": " 3447",
+            "n_ms_wasm": " 1531"
+        },
+        "run_168": {
+            "n_ms_native": " 3442",
+            "n_ms_wasm": " 1532"
+        },
+        "run_169": {
+            "n_ms_native": " 3439",
+            "n_ms_wasm": " 1527"
+        },
+        "run_170": {
+            "n_ms_native": " 3423",
+            "n_ms_wasm": " 1525"
+        },
+        "run_171": {
+            "n_ms_native": " 3427",
+            "n_ms_wasm": " 1526"
+        },
+        "run_172": {
+            "n_ms_native": " 3419",
+            "n_ms_wasm": " 1525"
+        },
+        "run_173": {
+            "n_ms_native": " 3428",
+            "n_ms_wasm": " 1525"
+        },
+        "run_174": {
+            "n_ms_native": " 3426",
+            "n_ms_wasm": " 1527"
+        },
+        "run_175": {
+            "n_ms_native": " 3424",
+            "n_ms_wasm": " 1526"
+        },
+        "run_176": {
+            "n_ms_native": " 3423",
+            "n_ms_wasm": " 1525"
+        },
+        "run_177": {
+            "n_ms_native": " 3426",
+            "n_ms_wasm": " 1524"
+        },
+        "run_178": {
+            "n_ms_native": " 3420",
+            "n_ms_wasm": " 1531"
+        },
+        "run_179": {
+            "n_ms_native": " 3417",
+            "n_ms_wasm": " 1523"
+        },
+        "run_180": {
+            "n_ms_native": " 3416",
+            "n_ms_wasm": " 1523"
+        },
+        "run_181": {
+            "n_ms_native": " 3429",
+            "n_ms_wasm": " 1526"
+        },
+        "run_182": {
+            "n_ms_native": " 3439",
+            "n_ms_wasm": " 1534"
+        },
+        "run_183": {
+            "n_ms_native": " 3432",
+            "n_ms_wasm": " 1526"
+        },
+        "run_184": {
+            "n_ms_native": " 3447",
+            "n_ms_wasm": " 1528"
+        },
+        "run_185": {
+            "n_ms_native": " 3476",
+            "n_ms_wasm": " 1538"
+        },
+        "run_186": {
+            "n_ms_native": " 3460",
+            "n_ms_wasm": " 1536"
+        },
+        "run_187": {
+            "n_ms_native": " 3454",
+            "n_ms_wasm": " 1532"
+        },
+        "run_188": {
+            "n_ms_native": " 3453",
+            "n_ms_wasm": " 1532"
+        },
+        "run_189": {
+            "n_ms_native": " 3451",
+            "n_ms_wasm": " 1570"
+        },
+        "run_190": {
+            "n_ms_native": " 3460",
+            "n_ms_wasm": " 1538"
+        },
+        "run_191": {
+            "n_ms_native": " 3442",
+            "n_ms_wasm": " 1529"
+        },
+        "run_192": {
+            "n_ms_native": " 3442",
+            "n_ms_wasm": " 1530"
+        },
+        "run_193": {
+            "n_ms_native": " 3460",
+            "n_ms_wasm": " 1533"
+        },
+        "run_194": {
+            "n_ms_native": " 3444",
+            "n_ms_wasm": " 1528"
+        },
+        "run_195": {
+            "n_ms_native": " 3442",
+            "n_ms_wasm": " 1529"
+        },
+        "run_196": {
+            "n_ms_native": " 3450",
+            "n_ms_wasm": " 1536"
+        },
+        "run_197": {
+            "n_ms_native": " 3448",
+            "n_ms_wasm": " 1529"
+        },
+        "run_198": {
+            "n_ms_native": " 3444",
+            "n_ms_wasm": " 1545"
+        },
+        "run_199": {
+            "n_ms_native": " 3459",
+            "n_ms_wasm": " 1531"
+        }
+    },
+    "bytes_2_621_440_000": {
+        "run_0": {
+            "n_ms_native": " 4024",
+            "n_ms_wasm": " 4375"
+        },
+        "run_1": {
+            "n_ms_native": " 2810",
+            "n_ms_wasm": " 3996"
+        },
+        "run_2": {
+            "n_ms_native": " 8801",
+            "n_ms_wasm": " 4000"
+        },
+        "run_3": {
+            "n_ms_native": " 8804",
+            "n_ms_wasm": " 3993"
+        },
+        "run_4": {
+            "n_ms_native": " 8805",
+            "n_ms_wasm": " 4009"
+        },
+        "run_5": {
+            "n_ms_native": " 8850",
+            "n_ms_wasm": " 4015"
+        },
+        "run_6": {
+            "n_ms_native": " 8823",
+            "n_ms_wasm": " 4029"
+        },
+        "run_7": {
+            "n_ms_native": " 8849",
+            "n_ms_wasm": " 4020"
+        },
+        "run_8": {
+            "n_ms_native": " 8824",
+            "n_ms_wasm": " 3998"
+        },
+        "run_9": {
+            "n_ms_native": " 8843",
+            "n_ms_wasm": " 4005"
+        },
+        "run_10": {
+            "n_ms_native": " 8845",
+            "n_ms_wasm": " 4009"
+        },
+        "run_11": {
+            "n_ms_native": " 8816",
+            "n_ms_wasm": " 4098"
+        },
+        "run_12": {
+            "n_ms_native": " 8814",
+            "n_ms_wasm": " 3998"
+        },
+        "run_13": {
+            "n_ms_native": " 8845",
+            "n_ms_wasm": " 4042"
+        },
+        "run_14": {
+            "n_ms_native": " 8888",
+            "n_ms_wasm": " 4014"
+        },
+        "run_15": {
+            "n_ms_native": " 8865",
+            "n_ms_wasm": " 4015"
+        },
+        "run_16": {
+            "n_ms_native": " 8865",
+            "n_ms_wasm": " 4013"
+        },
+        "run_17": {
+            "n_ms_native": " 8837",
+            "n_ms_wasm": " 4008"
+        },
+        "run_18": {
+            "n_ms_native": " 8844",
+            "n_ms_wasm": " 4012"
+        },
+        "run_19": {
+            "n_ms_native": " 8879",
+            "n_ms_wasm": " 4012"
+        },
+        "run_20": {
+            "n_ms_native": " 8856",
+            "n_ms_wasm": " 4038"
+        },
+        "run_21": {
+            "n_ms_native": " 8850",
+            "n_ms_wasm": " 4004"
+        },
+        "run_22": {
+            "n_ms_native": " 8823",
+            "n_ms_wasm": " 4026"
+        },
+        "run_23": {
+            "n_ms_native": " 8831",
+            "n_ms_wasm": " 3994"
+        },
+        "run_24": {
+            "n_ms_native": " 8820",
+            "n_ms_wasm": " 4005"
+        },
+        "run_25": {
+            "n_ms_native": " 8881",
+            "n_ms_wasm": " 4057"
+        },
+        "run_26": {
+            "n_ms_native": " 8934",
+            "n_ms_wasm": " 4154"
+        },
+        "run_27": {
+            "n_ms_native": " 8907",
+            "n_ms_wasm": " 4013"
+        },
+        "run_28": {
+            "n_ms_native": " 8823",
+            "n_ms_wasm": " 3996"
+        },
+        "run_29": {
+            "n_ms_native": " 8821",
+            "n_ms_wasm": " 4056"
+        },
+        "run_30": {
+            "n_ms_native": " 8805",
+            "n_ms_wasm": " 4015"
+        },
+        "run_31": {
+            "n_ms_native": " 8827",
+            "n_ms_wasm": " 4010"
+        },
+        "run_32": {
+            "n_ms_native": " 8859",
+            "n_ms_wasm": " 4082"
+        },
+        "run_33": {
+            "n_ms_native": " 8900",
+            "n_ms_wasm": " 4147"
+        },
+        "run_34": {
+            "n_ms_native": " 8867",
+            "n_ms_wasm": " 4004"
+        },
+        "run_35": {
+            "n_ms_native": " 8884",
+            "n_ms_wasm": " 4006"
+        },
+        "run_36": {
+            "n_ms_native": " 8928",
+            "n_ms_wasm": " 4068"
+        },
+        "run_37": {
+            "n_ms_native": " 8859",
+            "n_ms_wasm": " 4004"
+        },
+        "run_38": {
+            "n_ms_native": " 8841",
+            "n_ms_wasm": " 4016"
+        },
+        "run_39": {
+            "n_ms_native": " 8831",
+            "n_ms_wasm": " 4007"
+        },
+        "run_40": {
+            "n_ms_native": " 8839",
+            "n_ms_wasm": " 4023"
+        },
+        "run_41": {
+            "n_ms_native": " 8834",
+            "n_ms_wasm": " 4019"
+        },
+        "run_42": {
+            "n_ms_native": " 8876",
+            "n_ms_wasm": " 4031"
+        },
+        "run_43": {
+            "n_ms_native": " 8889",
+            "n_ms_wasm": " 4033"
+        },
+        "run_44": {
+            "n_ms_native": " 8866",
+            "n_ms_wasm": " 4009"
+        },
+        "run_45": {
+            "n_ms_native": " 8948",
+            "n_ms_wasm": " 4072"
+        },
+        "run_46": {
+            "n_ms_native": " 8846",
+            "n_ms_wasm": " 4001"
+        },
+        "run_47": {
+            "n_ms_native": " 8848",
+            "n_ms_wasm": " 4008"
+        },
+        "run_48": {
+            "n_ms_native": " 8822",
+            "n_ms_wasm": " 4006"
+        },
+        "run_49": {
+            "n_ms_native": " 8806",
+            "n_ms_wasm": " 3996"
+        },
+        "run_50": {
+            "n_ms_native": " 8825",
+            "n_ms_wasm": " 4010"
+        },
+        "run_51": {
+            "n_ms_native": " 8885",
+            "n_ms_wasm": " 4073"
+        },
+        "run_52": {
+            "n_ms_native": " 8936",
+            "n_ms_wasm": " 4046"
+        },
+        "run_53": {
+            "n_ms_native": " 8837",
+            "n_ms_wasm": " 3995"
+        },
+        "run_54": {
+            "n_ms_native": " 8822",
+            "n_ms_wasm": " 3999"
+        },
+        "run_55": {
+            "n_ms_native": " 8806",
+            "n_ms_wasm": " 3996"
+        },
+        "run_56": {
+            "n_ms_native": " 8816",
+            "n_ms_wasm": " 4003"
+        },
+        "run_57": {
+            "n_ms_native": " 8864",
+            "n_ms_wasm": " 4006"
+        },
+        "run_58": {
+            "n_ms_native": " 9011",
+            "n_ms_wasm": " 4062"
+        },
+        "run_59": {
+            "n_ms_native": " 8889",
+            "n_ms_wasm": " 4064"
+        },
+        "run_60": {
+            "n_ms_native": " 8951",
+            "n_ms_wasm": " 4044"
+        },
+        "run_61": {
+            "n_ms_native": " 8970",
+            "n_ms_wasm": " 4080"
+        },
+        "run_62": {
+            "n_ms_native": " 8866",
+            "n_ms_wasm": " 4006"
+        },
+        "run_63": {
+            "n_ms_native": " 8866",
+            "n_ms_wasm": " 4016"
+        },
+        "run_64": {
+            "n_ms_native": " 8823",
+            "n_ms_wasm": " 3996"
+        },
+        "run_65": {
+            "n_ms_native": " 8809",
+            "n_ms_wasm": " 3994"
+        },
+        "run_66": {
+            "n_ms_native": " 8821",
+            "n_ms_wasm": " 3997"
+        },
+        "run_67": {
+            "n_ms_native": " 8806",
+            "n_ms_wasm": " 3996"
+        },
+        "run_68": {
+            "n_ms_native": " 8807",
+            "n_ms_wasm": " 3998"
+        },
+        "run_69": {
+            "n_ms_native": " 8808",
+            "n_ms_wasm": " 3999"
+        },
+        "run_70": {
+            "n_ms_native": " 8803",
+            "n_ms_wasm": " 4000"
+        },
+        "run_71": {
+            "n_ms_native": " 8903",
+            "n_ms_wasm": " 3997"
+        },
+        "run_72": {
+            "n_ms_native": " 8814",
+            "n_ms_wasm": " 3998"
+        },
+        "run_73": {
+            "n_ms_native": " 8808",
+            "n_ms_wasm": " 3998"
+        },
+        "run_74": {
+            "n_ms_native": " 8804",
+            "n_ms_wasm": " 3996"
+        },
+        "run_75": {
+            "n_ms_native": " 8806",
+            "n_ms_wasm": " 3996"
+        },
+        "run_76": {
+            "n_ms_native": " 8806",
+            "n_ms_wasm": " 3998"
+        },
+        "run_77": {
+            "n_ms_native": " 8808",
+            "n_ms_wasm": " 3995"
+        },
+        "run_78": {
+            "n_ms_native": " 8807",
+            "n_ms_wasm": " 3999"
+        },
+        "run_79": {
+            "n_ms_native": " 8803",
+            "n_ms_wasm": " 3996"
+        },
+        "run_80": {
+            "n_ms_native": " 8808",
+            "n_ms_wasm": " 4001"
+        },
+        "run_81": {
+            "n_ms_native": " 8809",
+            "n_ms_wasm": " 3997"
+        },
+        "run_82": {
+            "n_ms_native": " 8823",
+            "n_ms_wasm": " 4013"
+        },
+        "run_83": {
+            "n_ms_native": " 8904",
+            "n_ms_wasm": " 4068"
+        },
+        "run_84": {
+            "n_ms_native": " 8827",
+            "n_ms_wasm": " 3997"
+        },
+        "run_85": {
+            "n_ms_native": " 8812",
+            "n_ms_wasm": " 3997"
+        },
+        "run_86": {
+            "n_ms_native": " 8870",
+            "n_ms_wasm": " 4019"
+        },
+        "run_87": {
+            "n_ms_native": " 8826",
+            "n_ms_wasm": " 4014"
+        },
+        "run_88": {
+            "n_ms_native": " 8854",
+            "n_ms_wasm": " 4033"
+        },
+        "run_89": {
+            "n_ms_native": " 8892",
+            "n_ms_wasm": " 4056"
+        },
+        "run_90": {
+            "n_ms_native": " 8839",
+            "n_ms_wasm": " 4013"
+        },
+        "run_91": {
+            "n_ms_native": " 8867",
+            "n_ms_wasm": " 4023"
+        },
+        "run_92": {
+            "n_ms_native": " 8817",
+            "n_ms_wasm": " 3994"
+        },
+        "run_93": {
+            "n_ms_native": " 8827",
+            "n_ms_wasm": " 4022"
+        },
+        "run_94": {
+            "n_ms_native": " 8821",
+            "n_ms_wasm": " 4007"
+        },
+        "run_95": {
+            "n_ms_native": " 8819",
+            "n_ms_wasm": " 4025"
+        },
+        "run_96": {
+            "n_ms_native": " 8911",
+            "n_ms_wasm": " 4051"
+        },
+        "run_97": {
+            "n_ms_native": " 8946",
+            "n_ms_wasm": " 4073"
+        },
+        "run_98": {
+            "n_ms_native": " 8938",
+            "n_ms_wasm": " 4090"
+        },
+        "run_99": {
+            "n_ms_native": " 8885",
+            "n_ms_wasm": " 4013"
+        },
+        "run_100": {
+            "n_ms_native": " 8902",
+            "n_ms_wasm": " 4047"
+        },
+        "run_101": {
+            "n_ms_native": " 8827",
+            "n_ms_wasm": " 4000"
+        },
+        "run_102": {
+            "n_ms_native": " 8833",
+            "n_ms_wasm": " 3995"
+        },
+        "run_103": {
+            "n_ms_native": " 8820",
+            "n_ms_wasm": " 4003"
+        },
+        "run_104": {
+            "n_ms_native": " 8839",
+            "n_ms_wasm": " 4088"
+        },
+        "run_105": {
+            "n_ms_native": " 8834",
+            "n_ms_wasm": " 4009"
+        },
+        "run_106": {
+            "n_ms_native": " 8819",
+            "n_ms_wasm": " 4028"
+        },
+        "run_107": {
+            "n_ms_native": " 8810",
+            "n_ms_wasm": " 3995"
+        },
+        "run_108": {
+            "n_ms_native": " 8837",
+            "n_ms_wasm": " 4000"
+        },
+        "run_109": {
+            "n_ms_native": " 8816",
+            "n_ms_wasm": " 3998"
+        },
+        "run_110": {
+            "n_ms_native": " 8872",
+            "n_ms_wasm": " 4009"
+        },
+        "run_111": {
+            "n_ms_native": " 8848",
+            "n_ms_wasm": " 4043"
+        },
+        "run_112": {
+            "n_ms_native": " 8842",
+            "n_ms_wasm": " 4006"
+        },
+        "run_113": {
+            "n_ms_native": " 8859",
+            "n_ms_wasm": " 4022"
+        },
+        "run_114": {
+            "n_ms_native": " 8910",
+            "n_ms_wasm": " 4014"
+        },
+        "run_115": {
+            "n_ms_native": " 8930",
+            "n_ms_wasm": " 4059"
+        },
+        "run_116": {
+            "n_ms_native": " 8902",
+            "n_ms_wasm": " 4056"
+        },
+        "run_117": {
+            "n_ms_native": " 8856",
+            "n_ms_wasm": " 4021"
+        },
+        "run_118": {
+            "n_ms_native": " 8882",
+            "n_ms_wasm": " 3995"
+        },
+        "run_119": {
+            "n_ms_native": " 8830",
+            "n_ms_wasm": " 4023"
+        },
+        "run_120": {
+            "n_ms_native": " 8808",
+            "n_ms_wasm": " 3993"
+        },
+        "run_121": {
+            "n_ms_native": " 8827",
+            "n_ms_wasm": " 4003"
+        },
+        "run_122": {
+            "n_ms_native": " 8865",
+            "n_ms_wasm": " 3995"
+        },
+        "run_123": {
+            "n_ms_native": " 8864",
+            "n_ms_wasm": " 4039"
+        },
+        "run_124": {
+            "n_ms_native": " 8869",
+            "n_ms_wasm": " 4005"
+        },
+        "run_125": {
+            "n_ms_native": " 8888",
+            "n_ms_wasm": " 4065"
+        },
+        "run_126": {
+            "n_ms_native": " 8919",
+            "n_ms_wasm": " 4020"
+        },
+        "run_127": {
+            "n_ms_native": " 8904",
+            "n_ms_wasm": " 4050"
+        },
+        "run_128": {
+            "n_ms_native": " 8915",
+            "n_ms_wasm": " 4059"
+        },
+        "run_129": {
+            "n_ms_native": " 8919",
+            "n_ms_wasm": " 4132"
+        },
+        "run_130": {
+            "n_ms_native": " 8912",
+            "n_ms_wasm": " 4044"
+        },
+        "run_131": {
+            "n_ms_native": " 8883",
+            "n_ms_wasm": " 4062"
+        },
+        "run_132": {
+            "n_ms_native": " 8896",
+            "n_ms_wasm": " 4041"
+        },
+        "run_133": {
+            "n_ms_native": " 8858",
+            "n_ms_wasm": " 4028"
+        },
+        "run_134": {
+            "n_ms_native": " 8848",
+            "n_ms_wasm": " 4011"
+        },
+        "run_135": {
+            "n_ms_native": " 8844",
+            "n_ms_wasm": " 4014"
+        },
+        "run_136": {
+            "n_ms_native": " 8852",
+            "n_ms_wasm": " 4021"
+        },
+        "run_137": {
+            "n_ms_native": " 8853",
+            "n_ms_wasm": " 4042"
+        },
+        "run_138": {
+            "n_ms_native": " 8906",
+            "n_ms_wasm": " 4024"
+        },
+        "run_139": {
+            "n_ms_native": " 8872",
+            "n_ms_wasm": " 4061"
+        },
+        "run_140": {
+            "n_ms_native": " 9006",
+            "n_ms_wasm": " 4109"
+        },
+        "run_141": {
+            "n_ms_native": " 9105",
+            "n_ms_wasm": " 4231"
+        },
+        "run_142": {
+            "n_ms_native": " 9178",
+            "n_ms_wasm": " 4160"
+        },
+        "run_143": {
+            "n_ms_native": " 9261",
+            "n_ms_wasm": " 4459"
+        },
+        "run_144": {
+            "n_ms_native": "11603",
+            "n_ms_wasm": " 4967"
+        },
+        "run_145": {
+            "n_ms_native": "11149",
+            "n_ms_wasm": " 4640"
+        },
+        "run_146": {
+            "n_ms_native": " 9788",
+            "n_ms_wasm": " 4124"
+        },
+        "run_147": {
+            "n_ms_native": " 9265",
+            "n_ms_wasm": " 4128"
+        },
+        "run_148": {
+            "n_ms_native": " 9213",
+            "n_ms_wasm": " 4126"
+        },
+        "run_149": {
+            "n_ms_native": " 9358",
+            "n_ms_wasm": " 4149"
+        },
+        "run_150": {
+            "n_ms_native": " 9697",
+            "n_ms_wasm": " 4241"
+        },
+        "run_151": {
+            "n_ms_native": " 9363",
+            "n_ms_wasm": " 4121"
+        },
+        "run_152": {
+            "n_ms_native": " 9296",
+            "n_ms_wasm": " 4072"
+        },
+        "run_153": {
+            "n_ms_native": " 9274",
+            "n_ms_wasm": " 4088"
+        },
+        "run_154": {
+            "n_ms_native": " 9239",
+            "n_ms_wasm": " 4072"
+        },
+        "run_155": {
+            "n_ms_native": " 9299",
+            "n_ms_wasm": " 4071"
+        },
+        "run_156": {
+            "n_ms_native": " 9170",
+            "n_ms_wasm": " 4062"
+        },
+        "run_157": {
+            "n_ms_native": " 9175",
+            "n_ms_wasm": " 4045"
+        },
+        "run_158": {
+            "n_ms_native": " 9072",
+            "n_ms_wasm": " 4038"
+        },
+        "run_159": {
+            "n_ms_native": " 9063",
+            "n_ms_wasm": " 4023"
+        },
+        "run_160": {
+            "n_ms_native": " 9025",
+            "n_ms_wasm": " 4018"
+        },
+        "run_161": {
+            "n_ms_native": " 9010",
+            "n_ms_wasm": " 4013"
+        },
+        "run_162": {
+            "n_ms_native": " 9001",
+            "n_ms_wasm": " 4011"
+        },
+        "run_163": {
+            "n_ms_native": " 8991",
+            "n_ms_wasm": " 4011"
+        },
+        "run_164": {
+            "n_ms_native": " 9043",
+            "n_ms_wasm": " 4159"
+        },
+        "run_165": {
+            "n_ms_native": " 9058",
+            "n_ms_wasm": " 4047"
+        },
+        "run_166": {
+            "n_ms_native": " 9030",
+            "n_ms_wasm": " 4025"
+        },
+        "run_167": {
+            "n_ms_native": " 9023",
+            "n_ms_wasm": " 4044"
+        },
+        "run_168": {
+            "n_ms_native": " 9009",
+            "n_ms_wasm": " 4013"
+        },
+        "run_169": {
+            "n_ms_native": " 9018",
+            "n_ms_wasm": " 4010"
+        },
+        "run_170": {
+            "n_ms_native": " 8981",
+            "n_ms_wasm": " 4006"
+        },
+        "run_171": {
+            "n_ms_native": " 8967",
+            "n_ms_wasm": " 4009"
+        },
+        "run_172": {
+            "n_ms_native": " 8973",
+            "n_ms_wasm": " 4010"
+        },
+        "run_173": {
+            "n_ms_native": " 8946",
+            "n_ms_wasm": " 4002"
+        },
+        "run_174": {
+            "n_ms_native": " 8973",
+            "n_ms_wasm": " 4003"
+        },
+        "run_175": {
+            "n_ms_native": " 8972",
+            "n_ms_wasm": " 4002"
+        },
+        "run_176": {
+            "n_ms_native": " 8969",
+            "n_ms_wasm": " 4005"
+        },
+        "run_177": {
+            "n_ms_native": " 8958",
+            "n_ms_wasm": " 4000"
+        },
+        "run_178": {
+            "n_ms_native": " 8962",
+            "n_ms_wasm": " 4001"
+        },
+        "run_179": {
+            "n_ms_native": " 8957",
+            "n_ms_wasm": " 3999"
+        },
+        "run_180": {
+            "n_ms_native": " 8968",
+            "n_ms_wasm": " 4007"
+        },
+        "run_181": {
+            "n_ms_native": " 8990",
+            "n_ms_wasm": " 4009"
+        },
+        "run_182": {
+            "n_ms_native": " 9034",
+            "n_ms_wasm": " 4008"
+        },
+        "run_183": {
+            "n_ms_native": " 8986",
+            "n_ms_wasm": " 4011"
+        },
+        "run_184": {
+            "n_ms_native": " 9040",
+            "n_ms_wasm": " 4065"
+        },
+        "run_185": {
+            "n_ms_native": " 9081",
+            "n_ms_wasm": " 4052"
+        },
+        "run_186": {
+            "n_ms_native": " 9105",
+            "n_ms_wasm": " 4023"
+        },
+        "run_187": {
+            "n_ms_native": " 9050",
+            "n_ms_wasm": " 4025"
+        },
+        "run_188": {
+            "n_ms_native": " 9047",
+            "n_ms_wasm": " 4020"
+        },
+        "run_189": {
+            "n_ms_native": " 9059",
+            "n_ms_wasm": " 4022"
+        },
+        "run_190": {
+            "n_ms_native": " 9017",
+            "n_ms_wasm": " 4015"
+        },
+        "run_191": {
+            "n_ms_native": " 9078",
+            "n_ms_wasm": " 4015"
+        },
+        "run_192": {
+            "n_ms_native": " 9018",
+            "n_ms_wasm": " 4015"
+        },
+        "run_193": {
+            "n_ms_native": " 9022",
+            "n_ms_wasm": " 4015"
+        },
+        "run_194": {
+            "n_ms_native": " 9017",
+            "n_ms_wasm": " 4014"
+        },
+        "run_195": {
+            "n_ms_native": " 9039",
+            "n_ms_wasm": " 4023"
+        },
+        "run_196": {
+            "n_ms_native": " 9015",
+            "n_ms_wasm": " 4015"
+        },
+        "run_197": {
+            "n_ms_native": " 9022",
+            "n_ms_wasm": " 4015"
+        },
+        "run_198": {
+            "n_ms_native": " 9039",
+            "n_ms_wasm": " 4024"
+        },
+        "run_199": {
+            "n_ms_native": " 9043",
+            "n_ms_wasm": " 4021"
+        }
+    }
+}
