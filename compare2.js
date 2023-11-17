@@ -11,20 +11,23 @@ import * as wasm from "./pkg/wasm_speed_test.js";
 await wasm.default()
 
 function f_s_type(typedArray) {
-    const typeName = Object.prototype.toString.call(typedArray);
-    const matches = typeName.match(/\[object (\w+)\]/);
-
-    if (matches && matches[1]) {
-        const type = matches[1];
-        // Extract the relevant parts from the type name
-        const arrayType = type.replace('Array', '');
-        const typeChar = arrayType.startsWith('Uint') ? 'u' : 'i';
-        const typeNumber = arrayType.match(/\d+/)[0];
-
-        return `${typeChar}${typeNumber}`;
-    } else {
-        return 'unknown';
+    console.log(typedArray)
+    let o_s_name_typed_array_s_short={
+        [Uint8Array.prototype.constructor.name] : 'u8',
+        [Uint16Array.prototype.constructor.name] : 'u16',
+        [Uint32Array.prototype.constructor.name] : 'u32',
+        [BigUint64Array.prototype.constructor.name] : 'u64',
+        [Int8Array.prototype.constructor.name] : 'i8',
+        [Int16Array.prototype.constructor.name] : 'i16',
+        [Int32Array.prototype.constructor.name] : 'i32',
+        [BigInt64Array.prototype.constructor.name] : 'i64',
+        [Float32Array.prototype.constructor.name] : 'f32',
+        [Float64Array.prototype.constructor.name]: 'f64',
     }
+    let s_short = o_s_name_typed_array_s_short[typedArray.constructor.name];
+    s_short = (s_short) ?s_short: 'unknown';
+    return s_short
+
 }
 let O_typed_array = Uint32Array
 
@@ -80,14 +83,14 @@ let f_o_run_comparison = function(
     
             console.log(s_prop_elements)
             let n_ms_native = window.performance.now();
-            var n_res = (o_mod_simplestatistics[eval(s_f_native)](a_sub))
-            console.log(n_res)
+            var n_res_native = (o_mod_simplestatistics[eval(s_f_native)](a_sub))
+            console.log(n_res_native)
             n_ms_native = window.performance.now()-n_ms_native;
             let n_ms_wasm = window.performance.now();
             let s = eval(s_f_wasm);
             console.log(s)
             var o_res = (wasm[s](a_sub))
-            console.log(o_res[`n_${s_prop}`])
+            let n_res_wasm = (o_res[`n_${s_prop}`])
     
             n_ms_wasm = window.performance.now()-n_ms_wasm;
     
@@ -95,6 +98,8 @@ let f_o_run_comparison = function(
                 o_s_n_elements_o_run[s_prop_elements][s_prop_run] = {
                     n_ms_native : n_ms_native,
                     n_ms_wasm : n_ms_wasm,
+                    n_res_native: Number(n_res_native),
+                    n_res_wasm: Number(n_res_wasm)
                     // 'n_ms_native': parseInt(n_ms_native).toString().padStart(5, ' ')      , 
                     // 'n_ms_wasm': parseInt(n_ms_wasm).toString().padStart(5, ' ')
                 }
@@ -104,12 +109,12 @@ let f_o_run_comparison = function(
     
     }
     for(let s_prop_elements in o_s_n_elements_o_run){
-        let n_mean_native = o_mod_simplestatistics.mean(Object.values(o_s_n_elements_o_run[s_prop_elements]).map(o=>o.n_ms_native));
-        let n_mean_wasm = o_mod_simplestatistics.mean(Object.values(o_s_n_elements_o_run[s_prop_elements]).map(o=>o.n_ms_wasm));
+        let n_ms_mean_native = o_mod_simplestatistics.mean(Object.values(o_s_n_elements_o_run[s_prop_elements]).map(o=>o.n_ms_native));
+        let n_ms_mean_wasm = o_mod_simplestatistics.mean(Object.values(o_s_n_elements_o_run[s_prop_elements]).map(o=>o.n_ms_wasm));
     
         o_s_n_elements_o_run[s_prop_elements][`o_${s_prop}`] = {
-            n_mean_native, 
-            n_mean_wasm
+            n_ms_mean_native, 
+            n_ms_mean_wasm
         }
     }
     return {
@@ -122,6 +127,7 @@ let a_O_typed_array = [
     Uint32Array, 
     BigUint64Array, 
     Int8Array, 
+    Int16Array, 
     Int32Array, 
     BigInt64Array, 
     Float32Array, 
@@ -136,7 +142,7 @@ let a_o_comparison = [
                 'min', 
                 '`f_o_n_${s_prop}_for_${s_type}`',
                 '`${s_prop}`',
-                10
+                3
             ),
             f_o_run_comparison(
                 O_typed_array, 
@@ -144,7 +150,7 @@ let a_o_comparison = [
                 'max', 
                 '`f_o_n_${s_prop}_for_${s_type}`',
                 '`${s_prop}`',
-                10
+                3
             ),
             f_o_run_comparison(
                 O_typed_array, 
@@ -152,7 +158,7 @@ let a_o_comparison = [
                 'mean', 
                 '`f_o_n_${s_prop}_for_${s_type}`',
                 '`${s_prop}`',
-                1
+                3
             )
         ]
     }).flat(2)
