@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WebAssembly Array Example</title>
+    <script src="main.js"></script>
+</head>
+<body>
+    <script>
+
+function createLargeFloat64Array(size) {
+    try {
+        // Initialize a Float64Array of the given size
+        const array = new Float64Array(size);
+
+        // Populate the array with some values
+        // Example: using a simple mathematical function
+        for (let i = 0; i < size; i++) {
+            array[i] = 0//Math.random(); // or any other value generation logic
+        }
+        array[0] = 2
+
+        return array;
+    } catch (e) {
+        console.error("Failed to create a large Float64Array: ", e);
+        return null; // Return null in case of an error (like OutOfMemoryError)
+    }
+}
+
+        function onWASMLoaded() {   
+            const sumArray = Module.cwrap('sumArray', 'number', ['number', 'number']);
+            const sumFloat64Array = Module.cwrap('sumFloat64Array', 'number', ['number', 'number']);
+
+            const inputArray = createLargeFloat64Array(1_000_000);
+            console.log(inputArray)
+            const bytes_per_element = inputArray.BYTES_PER_ELEMENT;
+
+            const numBytes = inputArray.length * bytes_per_element;
+            const ptr = Module._malloc(numBytes);
+            Module.HEAPU8.set(inputArray, ptr);
+
+            const sum = sumFloat64Array(ptr, inputArray.length);
+            console.log("Sum of array: " + sum);
+
+            Module._free(ptr);
+        }
+
+        Module.onRuntimeInitialized = onWASMLoaded;
+    </script>
+</body>
+</html>

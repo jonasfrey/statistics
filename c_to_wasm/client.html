@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WebAssembly Example</title>
+    <script src="square.js"></script>
+</head>
+<body>
+    <script>
+        function onWASMLoaded() {
+            const square = Module.cwrap('square', 'number', ['number']);
+            console.log("Square of 5 is " + square(5));
+        }
+
+        Module.onRuntimeInitialized = onWASMLoaded;
+    </script>
+</body>
+</html>
