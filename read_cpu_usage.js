@@ -32,7 +32,7 @@ async function displayCpuUsage() {
     const secondData = parseCpuData(secondRead);
 
     const usage = calculateCpuUsage(firstData, secondData);
-    // console.log("CPU Usage (%):", usage);
+    console.log("CPU Usage (%):", usage);
     let s_sep = '.';
     let s_cpu = '|'
     let s = usage.map(

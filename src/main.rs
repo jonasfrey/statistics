@@ -2,7 +2,7 @@ use wasm_bindgen::prelude::*;
 // use rand::Rng; // rand crate is required
 // use evalexpr::*;
 
-mod dynamically_created_autoextended;
+mod dynamically_created;
 //code_autoextender_start
 ////    return [ 'u16', 'u32', 'u64', 'f32', 'f64'].map(
 ////     (s_type) =>{
@@ -70,7 +70,7 @@ pub fn f_a_o_n_mean_n_sum__for_u8(a_n: &[u8], n_channels: usize) -> Vec<O_n_mean
 ////    }).join('\n')
 #[wasm_bindgen]
 pub fn f_n_min__for_u8(a_n: &[u8]) -> u8 {
-    return *a_n.iter().min().unwrap()
+    return *a_n.iter().min().unwrap();
     // return 55
 }
 #[wasm_bindgen]
